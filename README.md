@@ -1,4 +1,4 @@
 # Key
-Key All Version \r\n
-Dev_KingNNT \r\n
+Key All Version ||
+Dev_KingNNT ||
 www.facebook.com/Kinggg.NNT
