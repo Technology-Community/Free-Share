@@ -1,0 +1,4 @@
+Key:B236N-72BYR-D3V74-F4229-T83VC
+Description:Office16_ProPlusMSDNR_Retail
+ErrorCode:0xC004C008
+Detection Time:1/1/2019 9:38:17 PM
