@@ -3,10 +3,6 @@ Description:Office16_ProPlusMSDNR_Retail
 ErrorCode:0xC004C008
 Detection Time:1/1/2019 9:38:17 PM
 
-Microsoft Office 专业增强版 2016
-BD8KN-M3Q3G-RRXX9-K4V3C-76DVC
-ErrorCodes: 0xC004C008
-
 Key:VVNMJ-QC672-K6VY7-PPKXX-6CQVC
 Description:Office16_ProPlusMSDNR_Retail
 ErrorCode:0xC004C008
@@ -22,3 +18,7 @@ Description:Office16_ProPlusMSDNR_Retail
 ErrorCode:0xC004C008
 Detection Time:1/2/2019 12:11:42 PM
 
+Office 2016 Proplus
+Microsoft Office 专业增强版 2016
+BD8KN-M3Q3G-RRXX9-K4V3C-76DVC
+ErrorCodes: 0xC004C008
