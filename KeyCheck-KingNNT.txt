@@ -1,0 +1,3795 @@
+    ==================================================================
+PKeyConfig     : Windows 8.1 / Server 2012 R2  
+Key            : 2DNTC-FGBWH-Q79VM-WGTH6-72YCQ
+Key Status     : Valid
+Product ID     : 00259-40847-66326-AAOEM
+Extended PID   : XXXXX-02594-084-766326-02-1066-9200.0000-0092019
+SKU ID         : d03e843c-9044-4cd4-b5eb-78a9586b5598
+Description    : Win 8.1 RTM Professional OEM:NONSLP
+Edition ID     : Professional
+Sub Type       : [Blue]X18-95494
+License Type   : OEM:NONSLP
+Channel        : OEM
+Crypto ID      : 2594 (a22)
+Block Key Base : Not found
+
+Benchmark      : 0,3 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : QYCM7-2KFWC-H478W-KBV99-QQYWF
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9402157-21284
+Extended PID   : XXXXX-00188-021-521284-02-1066-9200.0000-0092019
+SKU ID         : 022a1afb-b893-4190-92c3-8f69a49839fb
+Description    : Windows 7 Ultimate OEM:COA
+Edition ID     : Ultimate
+Sub Type       : X15-37347
+License Type   : OEM:COA
+Channel        : OEM
+Crypto ID      : 188 (bc)
+Block Key Base : Not found
+
+Benchmark      : 14,3 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 6K2KY-BFH24-PJW6W-9GK29-TMPWP
+Key Status     : Valid
+Product ID     : XXXXX-OEM-8992662-00537
+Extended PID   : XXXXX-00178-926-600537-02-1066-9200.0000-0092019
+SKU ID         : 7cfd4696-69a9-4af7-af36-ff3d12b6b6c8
+Description    : Windows 7 Ultimate OEM:SLP
+Edition ID     : Ultimate
+Sub Type       : X15-37374
+License Type   : OEM:SLP
+Channel        : OEM
+Crypto ID      : 178 (b2)
+Block Key Base : Not found
+
+Benchmark      : 8,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : GYNX6-3D2XV-TBJRW-R9MDK-Y7R3D
+Key Status     : Valid
+Product ID     : 00216-22076-41159-AA870
+Extended PID   : XXXXX-02162-207-641159-00-1066-9200.0000-0092019
+SKU ID         : 064383fa-1538-491c-859b-0ecab169a0ab
+Description    : Office15_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32622
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2162 (872)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 6T6BW-M27F7-Q9BM3-4WDCT-YKKBC
+Key Status     : Valid
+Product ID     : XXXXX-069-9644874-86108
+Extended PID   : XXXXX-00172-069-964487-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 4FXKT-7FGMM-62FT3-R6T2Q-7BHJ8
+Key Status     : Valid
+Product ID     : XXXXX-069-4664384-86754
+Extended PID   : XXXXX-00172-069-466438-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 5,8 seconds
+
+    ==================================================================
+PKeyConfig     : Windows RTM 10.0.10586 
+Key            : P76N4-YPWHH-C7MCT-FYFYJ-WB48Y
+Key Status     : Valid
+Product ID     : 00329-60091-92536-AA752
+Extended PID   : XXXXX-03296-009-192536-03-1066-9200.0000-0092019
+SKU ID         : 6366a32b-72e4-4212-bf11-c22b0e98a435
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [TH]X19-98726
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3296 (ce0)
+Activ. Count   : 369
+Block Key Base : Not found
+
+Benchmark      : 8,3 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : 93MGM-NTFKD-6BK63-R6FYR-6Q9PB
+Key Status     : Valid
+Product ID     : 00424-80200-00960-AAOEM
+Extended PID   : XXXXX-04248-020-000960-02-1066-9200.0000-0092019
+SKU ID         : d06934ee-5448-4fd1-964a-cd077618aa06
+Description    : Win 10 RTM EnterpriseS OEM:NONSLP
+Edition ID     : EnterpriseS
+Sub Type       : [RS5]X21-83236
+License Type   : OEM:NONSLP
+Channel        : OEM
+Crypto ID      : 4248 (1098)
+Block Key Base : Not found
+
+Benchmark      : 5 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : WQ946-WNPYK-W9F2V-BFMCK-RM7WP
+Key Status     : Valid
+Product ID     : 00424-90388-00335-AA678
+Extended PID   : XXXXX-04249-038-800335-03-1066-9200.0000-0092019
+SKU ID         : 97348f2f-bebc-4653-a4bd-18a895d316d9
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS5]X21-83253
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 4249 (1099)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : BT3MY-9HN6M-FM64Q-W4HPG-Y96YQ
+Key Status     : Valid
+Product ID     : 00218-60007-55754-AA391
+Extended PID   : XXXXX-02186-000-755754-00-1066-9200.0000-0092019
+SKU ID         : a491efad-26ce-4ed7-b722-4569ba761d14
+Description    : Office15_VisioProMSDNR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X18-33261
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2186 (88a)
+Block Key Base : Not found
+
+Benchmark      : 6 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : XHWVQ-G8XC2-F9MKR-XWHRH-XVX74
+Key Status     : Valid
+Product ID     : XXXXX-034-0681535-86080
+Extended PID   : XXXXX-00172-034-068153-03-1066-9200.0000-0092019
+SKU ID         : 9abf5984-9c16-46f2-ad1e-7fe15931a8dd
+Description    : Windows 7 All Volume Editions Volume:MAK
+Edition ID     : Enterprise;EnterpriseN;EnterpriseE;Professional;ProfessionalN;ProfessionalE
+Sub Type       : X15-39049
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 172 (ac)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 7,3 seconds
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : JG3NJ-68RY4-4XM97-PXF7M-PR4QY
+Key Status     : Valid
+Product ID     : 00352-04993-42053-AA810
+Extended PID   : XXXXX-03520-499-342053-00-1066-9200.0000-0092019
+SKU ID         : 3846a94f-3005-401e-b663-af1cf99813d5
+Description    : Office16_VisioProMSDNR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X20-19684
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3520 (dc0)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NMYDT-FRDR6-CWCCK-R398K-GJGK9
+Key Status     : Valid
+Product ID     : 00351-90000-10874-AA705
+Extended PID   : XXXXX-03519-000-010874-00-1066-9200.0000-0092019
+SKU ID         : 2cb19a15-bab2-4fcb-acee-4bde5be207a5
+Description    : Office16_ProjectProMSDNR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X20-19679
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3519 (dbf)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NXX6X-74FYM-QQ7XV-XXXW4-4X892
+Key Status     : Valid
+Product ID     : 00351-35011-97896-AA852
+Extended PID   : XXXXX-03513-501-197896-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : D32JC-YN6PB-DQR79-HG8PY-VQW92
+Key Status     : Valid
+Product ID     : 00351-35019-22442-AA472
+Extended PID   : XXXXX-03513-501-922442-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : RHTBY-VWY6D-QJRJ9-JGQ3X-Q2289
+Key Status     : Valid
+Product ID     : XXXXX-069-6735527-86919
+Extended PID   : XXXXX-00172-069-673552-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : 3TY4M-DNVFY-T7QD2-7C9MM-YWT2C
+Key Status     : Valid
+Product ID     : 00424-90388-04606-AA235
+Extended PID   : XXXXX-04249-038-804606-03-1066-9200.0000-0092019
+SKU ID         : 97348f2f-bebc-4653-a4bd-18a895d316d9
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS5]X21-83253
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 4249 (1099)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : J7PGT-D7JB6-44YF9-WH3V4-DKQ92
+Key Status     : Valid
+Product ID     : XXXXX-948-1086015-85016
+Extended PID   : XXXXX-00170-948-108601-00-1066-9200.0000-0092019
+SKU ID         : ac96e1a8-6cc4-4310-a4ff-332ce77fb5b8
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39468
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 170 (aa)
+Block Key Base : Not found
+
+Benchmark      : 7,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7FNFR-KFPF8-FPPJY-YYCF3-2WF9G
+Key Status     : Valid
+Product ID     : 00330-80120-78279-AA826
+Extended PID   : XXXXX-03308-012-078279-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : ND8PK-2PRQW-869D2-RVT6Y-6VGXK
+Key Status     : Valid
+Product ID     : 00215-90004-71829-AA776
+Extended PID   : XXXXX-02159-000-471829-00-1066-9200.0000-0092019
+SKU ID         : 41499869-4103-4d3b-9da6-d07df41b6e39
+Description    : Office15_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32619
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2159 (86f)
+Block Key Base : Not found
+
+Benchmark      : 6,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : J8NG2-F23BP-9GRCM-H96GV-VT7T7
+Key Status     : Valid
+Product ID     : 00216-55320-15080-AA880
+Extended PID   : XXXXX-02165-532-015080-03-1066-9200.0000-0092019
+SKU ID         : 2b88c4f2-ea8f-43cd-805e-4d41346e18a7
+Description    : Office15_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X18-32647
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 2165 (875)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : GYRYB-XNYYP-3MT99-J3R44-3692P
+Key Status     : Valid
+Product ID     : 00342-50654-46959-AAOEM
+Extended PID   : XXXXX-03425-065-446959-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : GWTXN-XDRWK-YMD6W-WBK8R-369TT
+Key Status     : Valid
+Product ID     : 00330-80192-15517-AA615
+Extended PID   : XXXXX-03308-019-215517-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 4N2HF-TH24M-6VTWT-JC72V-JQKTT
+Key Status     : Valid
+Product ID     : 00330-80191-79101-AA098
+Extended PID   : XXXXX-03308-019-179101-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6RVPJ-N8HR6-JQF3D-RQ2V4-9W3GT
+Key Status     : Valid
+Product ID     : 00330-80192-08559-AA986
+Extended PID   : XXXXX-03308-019-208559-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : K37BJ-CNCJT-6F9HD-3YMCP-CKCX2
+Key Status     : Valid
+Product ID     : 00351-35022-22251-AA598
+Extended PID   : XXXXX-03513-502-222251-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : HKN2V-TJKQY-6XB74-2TR7J-F3KXQ
+Key Status     : Valid
+Product ID     : 00337-81252-13012-AA633
+Extended PID   : XXXXX-03378-125-213012-00-1066-9200.0000-0092019
+SKU ID         : 0f42f316-00b1-48c5-ada4-2f52b5720ad0
+Description    : Office16_ProjectProR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X19-99817
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3378 (d32)
+Block Key Base : Not found
+
+Benchmark      : 10,3 seconds
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : KVCXH-VNQJ2-KJDK6-X77XM-6VJXG
+Key Status     : Valid
+Product ID     : 00330-80192-78735-AA433
+Extended PID   : XXXXX-03308-019-278735-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : VK7JG-NPHTM-C97JM-9MPGT-3V66T
+Key Status     : Valid
+Product ID     : 00330-80000-00000-AA187
+Extended PID   : XXXXX-03308-000-000000-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98841
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 34BCY-QMR8R-T779J-KFF4R-C28YF
+Key Status     : Valid
+Product ID     : XXXXX-011-4407283-86939
+Extended PID   : XXXXX-00172-011-440728-03-1066-9200.0000-0092019
+SKU ID         : 9abf5984-9c16-46f2-ad1e-7fe15931a8dd
+Description    : Windows 7 All Volume Editions Volume:MAK
+Edition ID     : Enterprise;EnterpriseN;EnterpriseE;Professional;ProfessionalN;ProfessionalE
+Sub Type       : X15-39097
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 172 (ac)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 7,6 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : PRG2C-6MTQ2-RPFKB-QFJRR-CDM36
+Key Status     : Valid
+Product ID     : XXXXX-065-1215732-86739
+Extended PID   : XXXXX-00172-065-121573-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 6,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 827CG-RNP2T-GXMR7-Y9QPF-FC2KG
+Key Status     : Valid
+Product ID     : 00330-80192-15564-AA113
+Extended PID   : XXXXX-03308-019-215564-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : BD8KN-M3Q3G-RRXX9-K4V3C-76DVC
+Key Status     : Valid
+Product ID     : 00351-35021-90253-AA572
+Extended PID   : XXXXX-03513-502-190253-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7NVBV-J7TV9-XRH2J-KFXVK-C7JXG
+Key Status     : Valid
+Product ID     : 00330-80192-12913-AA416
+Extended PID   : XXXXX-03308-019-212913-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : CR9VM-66N8X-3DWTQ-C3FGH-PWF9G
+Key Status     : Valid
+Product ID     : 00330-80191-62340-AA369
+Extended PID   : XXXXX-03308-019-162340-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : XNVM4-8JVKH-C26RJ-FBXFV-2R4C6
+Key Status     : Valid
+Product ID     : 00330-80121-44469-AA728
+Extended PID   : XXXXX-03308-012-144469-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : KCCVJ-4TRQC-XPG7Y-WDG6K-BFKTH
+Key Status     : Valid
+Product ID     : XXXXX-013-1375014-86613
+Extended PID   : XXXXX-00172-013-137501-03-1066-9200.0000-0092019
+SKU ID         : 9abf5984-9c16-46f2-ad1e-7fe15931a8dd
+Description    : Windows 7 All Volume Editions Volume:MAK
+Edition ID     : Enterprise;EnterpriseN;EnterpriseE;Professional;ProfessionalN;ProfessionalE
+Sub Type       : X15-39093
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 172 (ac)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 7,2 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : JYCDP-JVKM8-R4YPM-489WX-WGXJQ
+Key Status     : Valid
+Product ID     : XXXXX-851-0616915-85684
+Extended PID   : XXXXX-00170-851-061691-00-1066-9200.0000-0092019
+SKU ID         : e838d943-63ed-4a0b-9fb1-47152908acc9
+Description    : Windows 7 Professional Retail
+Edition ID     : Professional
+Sub Type       : X15-39303
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 170 (aa)
+Block Key Base : Not found
+
+Benchmark      : 5,6 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JG4N7-Q6922-MQ2VJ-WB28C-XTPKG
+Key Status     : Valid
+Product ID     : 00330-80191-44492-AA098
+Extended PID   : XXXXX-03308-019-144492-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : MGX79-TPQB9-KQ248-KXR2V-DHRTD
+Key Status     : Valid
+Product ID     : XXXXX-065-1988522-86848
+Extended PID   : XXXXX-00172-065-198852-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 6,9 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NPJ7M-FK3TG-CJ3VX-TMKT2-JB49G
+Key Status     : Valid
+Product ID     : 00330-80191-44488-AA980
+Extended PID   : XXXXX-03308-019-144488-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : BMB34-PMB4B-3DBVK-BVYTT-JXXQQ
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9154295-64842
+Extended PID   : XXXXX-00182-542-964842-02-1066-9200.0000-0092019
+SKU ID         : cfb3e52c-d707-4861-af51-11b27ee6169c
+Description    : Windows 7 Ultimate OEM:NONSLP
+Edition ID     : Ultimate
+Sub Type       : X15-37358
+License Type   : OEM:NONSLP
+Channel        : OEM
+Crypto ID      : 182 (b6)
+Block Key Base : Not found
+
+Benchmark      : 10,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : P2XQY-FMNMX-RPVYP-BYTJM-HT97C
+Key Status     : Valid
+Product ID     : 00351-35005-12396-AA242
+Extended PID   : XXXXX-03513-500-512396-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : TR8NX-K7KPD-YTRW3-XTHKX-KQBP6
+Key Status     : Valid
+Product ID     : 00330-80108-79518-AA672
+Extended PID   : XXXXX-03308-010-879518-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 8.1 / Server 2012 R2  
+Key            : GNBP6-HCMY2-WXV9R-HBM2P-9P9HD
+Key Status     : Valid
+Product ID     : 00261-80249-34550-AA734
+Extended PID   : XXXXX-02618-024-934550-03-1066-9200.0000-0092019
+SKU ID         : 354d964a-56e7-43c5-a93f-287a7a750bd4
+Description    : Win 8.1 RTM Professional;ProfessionalN;Enterprise;EnterpriseN Volume:MAK
+Edition ID     : Professional;ProfessionalN;Enterprise;EnterpriseN
+Sub Type       : [Blue]X18-95513
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 2618 (a3a)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : MNPBX-QWWW8-DT3XK-PFBDY-8FD8B
+Key Status     : Valid
+Product ID     : 00219-23126-00989-AA350
+Extended PID   : XXXXX-02192-312-600989-00-1066-9200.0000-0092019
+SKU ID         : 15d12ad4-622d-4257-976c-5eb3282fb93d
+Description    : Office15_VisioProR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X18-33281
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2192 (890)
+Block Key Base : Not found
+
+Benchmark      : 6,9 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : YRRFN-JC82D-MDPVX-BBTGB-JK8XG
+Key Status     : Valid
+Product ID     : 00330-80200-07907-AA457
+Extended PID   : XXXXX-03308-020-007907-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : W8W6K-3N7KK-PXB9H-8TD8W-BWTH9
+Key Status     : Valid
+Product ID     : 00398-30000-00000-AA040
+Extended PID   : XXXXX-03983-000-000000-00-1066-9200.0000-0092019
+SKU ID         : c3b2612d-58ee-4d9b-ad9d-7568decb29f7
+Description    : Office19_ProPlus2019R_PrepidBypass
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-64688
+License Type   : Retail
+Channel        : ltFree
+Crypto ID      : 3983 (f8f)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : YRXGN-29R27-BK9B7-Q4HDC-TMVCP
+Key Status     : Valid
+Product ID     : 00342-50690-52694-AAOEM
+Extended PID   : XXXXX-03425-069-052694-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NJMBV-Q6KY9-WDKWP-9C66V-46YP6
+Key Status     : Valid
+Product ID     : 00330-80192-15598-AA189
+Extended PID   : XXXXX-03308-019-215598-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6W38N-QMJX6-94W32-3B6QD-Y4G6T
+Key Status     : Valid
+Product ID     : 00330-80192-01003-AA980
+Extended PID   : XXXXX-03308-019-201003-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NMCB7-W4J9X-8VM9Y-W6BQD-Y4G6Y
+Key Status     : Valid
+Product ID     : 00331-20350-05811-AA192
+Extended PID   : XXXXX-03312-035-005811-03-1066-9200.0000-0092019
+SKU ID         : 49cd895b-53b2-4dc4-a5f7-b18aa019ad37
+Description    : Win 10 RTM Professional Volume:MAK
+Edition ID     : Professional
+Sub Type       : [TH]X19-98805
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3312 (cf0)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows Vista / Server 2008 / CSVLK
+Key            : QBMVR-3QCP7-BQMPY-FF7F7-W6HBQ
+Key Status     : Valid
+Product ID     : XXXXX-006-3464576-71532
+Extended PID   : XXXXX-00142-006-346457-01-1066-9200.0000-0092019
+SKU ID         : 30fab9cc-8614-4339-989f-7ce61fb7a5c4
+Description    : Windows Vista Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X12-80016
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 142 (8e)
+Block Key Base : Not found
+
+Benchmark      : 76,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows Vista / Server 2008 / CSVLK
+Key            : YT4WX-JP398-B8X4B-B7F6Q-2JF7T
+Key Status     : Valid
+Product ID     : XXXXX-378-9371886-71521
+Extended PID   : XXXXX-00142-378-937188-00-1066-9200.0000-0092019
+SKU ID         : 30fab9cc-8614-4339-989f-7ce61fb7a5c4
+Description    : Windows Vista Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X13-04111
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 142 (8e)
+Block Key Base : Not found
+
+Benchmark      : 3,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 6HX2N-6VYG2-QB67T-RRWRM-CWGFP
+Key Status     : Valid
+Product ID     : 00340-94152-37750-AA927
+Extended PID   : XXXXX-03409-415-237750-03-1066-9200.0000-0092019
+SKU ID         : 0ed94aac-2234-4309-ba29-74bdbb887083
+Description    : Office16_StandardVL_MAK
+Edition ID     : StandardVolume
+Sub Type       : X20-00728
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 3409 (d51)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 1,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 7N4WQ-RJWVV-CV3GH-63KG7-6XY86
+Key Status     : Valid
+Product ID     : 00413-20007-13273-AA110
+Extended PID   : XXXXX-04132-000-713273-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 8,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7YCFN-R3RGT-6MQGW-62P3C-XTPKG
+Key Status     : Valid
+Product ID     : 00330-80121-38419-AA043
+Extended PID   : XXXXX-03308-012-138419-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : DR3RD-NFPDM-2T9XT-HH9C7-VT9RM
+Key Status     : Valid
+Product ID     : 00328-00256-29732-AA847
+Extended PID   : XXXXX-03280-025-629732-00-1066-9200.0000-0092019
+SKU ID         : e558417a-5123-4f6f-91e7-385c1c7ca9d4
+Description    : Win 10 RTM Education Retail
+Edition ID     : Education
+Sub Type       : [TH]X20-21794
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3280 (cd0)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : G4GBV-4N9VP-JYG8G-H7W8M-HVB9B
+Key Status     : Valid
+Product ID     : 00413-65874-42668-AA469
+Extended PID   : XXXXX-04136-587-442668-00-1066-9200.0000-0092019
+SKU ID         : a3072b8f-adcc-4e75-8d62-fdeb9bdfae57
+Description    : Office19_ProPlus2019R_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74626
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4136 (1028)
+Block Key Base : Not found
+
+Benchmark      : 0,9 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : YC7N8-G7WR6-9WR4H-6Y2W4-KBT6X
+Key Status     : Valid
+Product ID     : 00331-10000-00000-AA274
+Extended PID   : XXXXX-03311-000-000000-03-1066-9200.0000-0092019
+SKU ID         : 2de67392-b7a7-462a-b1ca-108dd189f588
+Description    : Win 10 RTM Professional Volume:GVLK
+Edition ID     : Professional
+Sub Type       : [TH]X19-98795
+License Type   : Volume:GVLK
+Channel        : Volume
+Crypto ID      : 3311 (cef)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : KCKR9-RJN6X-Y4PWJ-R9GJR-TVJXG
+Key Status     : Valid
+Product ID     : 00330-80191-42885-AA197
+Extended PID   : XXXXX-03308-019-142885-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : XBFNM-PJK3G-D7K29-RHVT9-CDHT7
+Key Status     : Valid
+Product ID     : 00216-52281-24200-AA319
+Extended PID   : XXXXX-02165-228-124200-03-1066-9200.0000-0092019
+SKU ID         : 2b88c4f2-ea8f-43cd-805e-4d41346e18a7
+Description    : Office15_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X18-32639
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 2165 (875)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6NXHP-34Y6V-6MFXT-VTC97-7QXR3
+Key Status     : Valid
+Product ID     : 00380-20388-25564-AA598
+Extended PID   : XXXXX-03802-038-825564-03-1066-9200.0000-0092019
+SKU ID         : 2782d615-3249-495b-8260-15a4c2295448
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS1]X21-04911
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3802 (eda)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,6 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 367YN-M94FX-F83QW-3H9HP-2DK2P
+Key Status     : Valid
+Product ID     : 00342-50491-68931-AAOEM
+Extended PID   : XXXXX-03425-049-168931-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 88NYW-VX69K-6GWX4-2XBQT-9KXTT
+Key Status     : Valid
+Product ID     : 00330-80191-62097-AA420
+Extended PID   : XXXXX-03308-019-162097-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : D97XK-XNPK4-GFQVY-QVXT3-9D8DP
+Key Status     : Valid
+Product ID     : 00351-35019-02133-AA866
+Extended PID   : XXXXX-03513-501-902133-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : R939W-RN8BP-K7GD6-BVM7Y-YWRC6
+Key Status     : Valid
+Product ID     : 00330-80192-00754-AA319
+Extended PID   : XXXXX-03308-019-200754-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : DXYC9-G8NDX-D43C4-YGB78-W42C9
+Key Status     : Valid
+Product ID     : 00215-90021-69823-AA229
+Extended PID   : XXXXX-02159-002-169823-00-1066-9200.0000-0092019
+SKU ID         : 41499869-4103-4d3b-9da6-d07df41b6e39
+Description    : Office15_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32619
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2159 (86f)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 27HGY-VXWCR-WWGRH-FHC7B-3WT74
+Key Status     : Valid
+Product ID     : XXXXX-222-3053073-86069
+Extended PID   : XXXXX-00172-222-305307-00-1066-9200.0000-0092019
+SKU ID         : 770bc271-8dc1-467d-b574-73cbacbeccd1
+Description    : Windows 7 Professional Retail
+Edition ID     : Professional
+Sub Type       : X15-39009
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : X2R9N-JF4FR-3H79H-88DRT-8TYP6
+Key Status     : Valid
+Product ID     : 00330-80192-01219-AA737
+Extended PID   : XXXXX-03308-019-201219-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : F4VT9-6VNPC-GX99F-7JJCD-C39GG
+Key Status     : Valid
+Product ID     : 00413-20001-22666-AA587
+Extended PID   : XXXXX-04132-000-122666-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 9QNTW-JG4PV-TKYDQ-TV6HY-VQWXG
+Key Status     : Valid
+Product ID     : 00330-80191-79157-AA859
+Extended PID   : XXXXX-03308-019-179157-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 492R8-736XV-7DYX8-PC2YQ-8VMYT
+Key Status     : Valid
+Product ID     : XXXXX-220-4323655-86488
+Extended PID   : XXXXX-00172-220-432365-00-1066-9200.0000-0092019
+SKU ID         : 770bc271-8dc1-467d-b574-73cbacbeccd1
+Description    : Windows 7 Professional Retail
+Edition ID     : Professional
+Sub Type       : X15-39009
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7,3 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : BBRCD-B7YFM-JJ3HC-49VPV-G8F34
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9233301-57992
+Extended PID   : XXXXX-00184-333-057992-02-1066-9200.0000-0092019
+SKU ID         : c1027486-8ae8-4633-9cf9-9658ed80504d
+Description    : Windows 7 Professional OEM:COA
+Edition ID     : Professional
+Sub Type       : X15-37350
+License Type   : OEM:COA
+Channel        : OEM
+Crypto ID      : 184 (b8)
+Block Key Base : Not found
+
+Benchmark      : 13,4 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NKGG6-WBPCC-HXWMY-6DQGJ-CPQVG
+Key Status     : Valid
+Product ID     : 00351-60000-00003-AA741
+Extended PID   : XXXXX-03516-000-000003-00-1066-9200.0000-0092019
+SKU ID         : 39a1be8c-9e7f-4a75-81f4-21cfac7cbecb
+Description    : Office16_ProfessionalR_Trial
+Edition ID     : ProfessionalRetail
+Sub Type       : X20-19695
+License Type   : Retail:TB:Eval
+Channel        : ltPTP
+Crypto ID      : 3516 (dbc)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : RH82N-JMMFG-82MVM-T9JMQ-8K6XQ
+Key Status     : Valid
+Product ID     : 00216-22075-90905-AA111
+Extended PID   : XXXXX-02162-207-590905-00-1066-9200.0000-0092019
+SKU ID         : 064383fa-1538-491c-859b-0ecab169a0ab
+Description    : Office15_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32622
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2162 (872)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7 / Server 2008 R2 / CSVLK
+Key            : VR84V-KTTTT-DPRJG-VKWB7-2WTJ3
+Key Status     : Valid
+Product ID     : XXXXX-383-8648583-06468
+Extended PID   : XXXXX-00212-383-864858-00-1066-9200.0000-0092019
+SKU ID         : c619d61c-c2f2-40c3-ab3f-c5924314b0f3
+Description    : Windows 7 SP1 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X16-95496
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 212 (d4)
+Block Key Base : Not found
+
+Benchmark      : 34,9 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 8 / Server 2012  
+Key            : 3WN3V-FMPJ9-3269F-422RM-K73G7
+Key Status     : Valid
+Product ID     : 00178-10778-80858-AA207
+Extended PID   : XXXXX-01781-077-880858-00-1066-9200.0000-0092019
+SKU ID         : 9e473b6d-b591-4c46-9c44-90a865f22e76
+Description    : Win 8 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : X18-15500
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 1781 (6f5)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : B7TWQ-NM4WM-HR47M-K83DK-CDKTT
+Key Status     : Valid
+Product ID     : 00330-80191-72622-AA474
+Extended PID   : XXXXX-03308-019-172622-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : GWRRB-NJGRV-F2MPR-PMFGM-KD782
+Key Status     : Valid
+Product ID     : 00342-50654-33690-AAOEM
+Extended PID   : XXXXX-03425-065-433690-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : TGHDF-FWMWQ-9F4G3-83BYX-F2HKQ
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9310942-58575
+Extended PID   : XXXXX-00186-109-458575-02-1066-9200.0000-0092019
+SKU ID         : da22eadd-46dc-4056-a287-f5041c852470
+Description    : Windows 7 Professional OEM:COA
+Edition ID     : Professional
+Sub Type       : X15-37341
+License Type   : OEM:COA
+Channel        : OEM
+Crypto ID      : 186 (ba)
+Block Key Base : Not found
+
+Benchmark      : 13,5 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : H8NHR-QQCBB-W3TXH-4TXRH-GCQPP
+Key Status     : Valid
+Product ID     : 00342-50654-38086-AAOEM
+Extended PID   : XXXXX-03425-065-438086-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : CGGR9-NQYC7-KRRGM-K4Y8J-XW3K7
+Key Status     : Valid
+Product ID     : 00338-97656-10732-AA761
+Extended PID   : XXXXX-03389-765-610732-00-1066-9200.0000-0092019
+SKU ID         : de52bd50-9564-4adc-8fcb-a345c17f84f9
+Description    : Office16_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-00537
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3389 (d3d)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : D77NY-XJ4WK-3MGPX-FGBYF-QGPX7
+Key Status     : Valid
+Product ID     : 00351-70005-08990-AA578
+Extended PID   : XXXXX-03517-000-508990-00-1066-9200.0000-0092019
+SKU ID         : d64edc00-7453-4301-8428-197343fafb16
+Description    : Office16_ProfessionalR_Retail
+Edition ID     : ProfessionalRetail
+Sub Type       : X20-19664
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3517 (dbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6BM4W-8ND34-FD9FP-B9DFY-DPD97
+Key Status     : Valid
+Product ID     : 00326-10111-32985-AA861
+Extended PID   : XXXXX-03261-011-132985-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 7NDF9-CDYKD-W9Y22-V3KTR-2KCX9
+Key Status     : Valid
+Product ID     : 00351-90002-20446-AA017
+Extended PID   : XXXXX-03519-000-220446-00-1066-9200.0000-0092019
+SKU ID         : 2cb19a15-bab2-4fcb-acee-4bde5be207a5
+Description    : Office16_ProjectProMSDNR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X20-19679
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3519 (dbf)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : V6NQJ-7XCM8-2C93T-89KRT-P7J4V
+Key Status     : Valid
+Product ID     : 00341-31870-74621-AA333
+Extended PID   : XXXXX-03413-187-074621-00-1066-9200.0000-0092019
+SKU ID         : 2dfe2075-2d04-4e43-816a-eb60bbb77574
+Description    : Office16_VisioProR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X20-00738
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3413 (d55)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 9FPFP-HH7M3-BWPXY-92MYB-PFBPJ
+Key Status     : Valid
+Product ID     : XXXXX-178-6700116-85685
+Extended PID   : XXXXX-00170-178-670011-00-1066-9200.0000-0092019
+SKU ID         : e838d943-63ed-4a0b-9fb1-47152908acc9
+Description    : Windows 7 Professional Retail
+Edition ID     : Professional
+Sub Type       : X15-39655
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 170 (aa)
+Block Key Base : Not found
+
+Benchmark      : 8,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 8.1 / Server 2012 R2  
+Key            : VDC28-N7DRW-QMQMV-39THG-9KWKB
+Key Status     : Valid
+Product ID     : 00260-00729-39309-AA194
+Extended PID   : XXXXX-02600-072-939309-00-1066-9200.0000-0092019
+SKU ID         : 8da2dfae-e4f5-4e6a-9272-96f8470e033e
+Description    : Win 8.1 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [Blue]res-v2600
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 2600 (a28)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NYGD2-GFCQM-DXMFD-CC3J3-DV66P
+Key Status     : Valid
+Product ID     : 00330-50301-90571-AAOEM
+Extended PID   : XXXXX-03305-030-190571-02-1066-9200.0000-0092019
+SKU ID         : bd3762d7-270d-4760-8fb3-d829ca45278a
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X19-99481
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3305 (ce9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : G6NF7-PWKKC-9G3BK-GVYK7-HXP4X
+Key Status     : Valid
+Product ID     : 00411-91507-44013-AA131
+Extended PID   : XXXXX-04119-150-744013-00-1066-9200.0000-0092019
+SKU ID         : 0d270ef7-5aaf-4370-a372-bc806b96adb7
+Description    : Office19_ProjectPro2019R_Retail
+Edition ID     : ProjectPro2019Retail
+Sub Type       : X21-74792
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4119 (1017)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 8.1 / Server 2012 R2  
+Key            : XX3N8-36Y6F-796J8-6JPDV-R9BCQ
+Key Status     : Valid
+Product ID     : 00259-40847-66201-AAOEM
+Extended PID   : XXXXX-02594-084-766201-02-1066-9200.0000-0092019
+SKU ID         : d03e843c-9044-4cd4-b5eb-78a9586b5598
+Description    : Win 8.1 RTM Professional OEM:NONSLP
+Edition ID     : Professional
+Sub Type       : [Blue]X18-95494
+License Type   : OEM:NONSLP
+Channel        : OEM
+Crypto ID      : 2594 (a22)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 73BPX-2NY86-FP7HC-J9648-82RYX
+Key Status     : Valid
+Product ID     : 00417-51007-55549-AA729
+Extended PID   : XXXXX-04175-100-755549-00-1066-9200.0000-0092019
+SKU ID         : a6f69d68-5590-4e02-80b9-e7233dff204e
+Description    : Office19_VisioPro2019R_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74663
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4175 (104f)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 3DW7N-CGJYD-P8J2Y-4QFX4-PPRY2
+Key Status     : Valid
+Product ID     : 00417-70000-20387-AA395
+Extended PID   : XXXXX-04177-000-020387-00-1066-9200.0000-0092019
+SKU ID         : 0758c976-ea87-4128-8c1c-f7af1bab76b9
+Description    : Office19_VisioPro2019MSDNR_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74660
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4177 (1051)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : RCT3Q-BN2W9-KJGCV-9MCRX-CDK7C
+Key Status     : Valid
+Product ID     : 00351-35021-90173-AA492
+Extended PID   : XXXXX-03513-502-190173-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : X88V9-VRNXV-G8XWY-M6VQ4-KBT6T
+Key Status     : Valid
+Product ID     : 00330-80192-00783-AA540
+Extended PID   : XXXXX-03308-019-200783-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NXGBM-F676K-9WKWC-JFT3W-4VV26
+Key Status     : Valid
+Product ID     : 00330-80192-15737-AA886
+Extended PID   : XXXXX-03308-019-215737-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : R7W4N-9WFK8-CCKBT-P2FGY-CWF9G
+Key Status     : Valid
+Product ID     : 00330-80191-44485-AA548
+Extended PID   : XXXXX-03308-019-144485-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : PG2GN-47674-PTCWY-R2843-628PH
+Key Status     : Valid
+Product ID     : 00214-10622-67786-AA168
+Extended PID   : XXXXX-02141-062-267786-00-1066-9200.0000-0092019
+SKU ID         : f2435de4-5fc0-4e5b-ac97-34f515ec5ee7
+Description    : Office15_ProjectProR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X18-32770
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2141 (85d)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6NRHY-TQHTX-9PCMK-4KK9H-GCQGT
+Key Status     : Valid
+Product ID     : 00330-80191-79281-AA899
+Extended PID   : XXXXX-03308-019-179281-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : BW4TR-RRGQM-6BFWR-6QR4D-VVWHP
+Key Status     : Valid
+Product ID     : XXXXX-839-1566226-85033
+Extended PID   : XXXXX-00170-839-156622-00-1066-9200.0000-0092019
+SKU ID         : e838d943-63ed-4a0b-9fb1-47152908acc9
+Description    : Windows 7 Professional Retail
+Edition ID     : Professional
+Sub Type       : X15-39021
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 170 (aa)
+Block Key Base : Not found
+
+Benchmark      : 7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : R8B2N-P4DJY-F48RB-4TG7K-66PKG
+Key Status     : Valid
+Product ID     : 00330-80192-08391-AA295
+Extended PID   : XXXXX-03308-019-208391-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : F6FYX-DNT82-VK9TJ-W34VD-G83VC
+Key Status     : Valid
+Product ID     : 00351-35011-98868-AA538
+Extended PID   : XXXXX-03513-501-198868-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6B66N-9J4RD-CTJMY-YRJPC-YKMP6
+Key Status     : Valid
+Product ID     : 00330-80191-62025-AA130
+Extended PID   : XXXXX-03308-019-162025-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : BXNJ2-FTG8M-48DHV-T9T2T-RRJJK
+Key Status     : Valid
+Product ID     : 00411-91507-46865-AA384
+Extended PID   : XXXXX-04119-150-746865-00-1066-9200.0000-0092019
+SKU ID         : 0d270ef7-5aaf-4370-a372-bc806b96adb7
+Description    : Office19_ProjectPro2019R_Retail
+Edition ID     : ProjectPro2019Retail
+Sub Type       : X21-74792
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4119 (1017)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JHN6C-7M96V-MRRJQ-RX43Y-8FG3V
+Key Status     : Valid
+Product ID     : 00326-10111-33283-AA507
+Extended PID   : XXXXX-03261-011-133283-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : JVD6B-RNG9P-2CJRD-3672C-P9Y86
+Key Status     : Valid
+Product ID     : 00413-20001-22675-AA459
+Extended PID   : XXXXX-04132-000-122675-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 2GNBP-KRCPK-QJFXT-YFJDF-MWTTM
+Key Status     : Valid
+Product ID     : 00413-65875-70746-AA252
+Extended PID   : XXXXX-04136-587-570746-00-1066-9200.0000-0092019
+SKU ID         : a3072b8f-adcc-4e75-8d62-fdeb9bdfae57
+Description    : Office19_ProPlus2019R_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74626
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4136 (1028)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6NGHV-BG3VK-2K69D-7YGFV-2R4C6
+Key Status     : Valid
+Product ID     : 00330-80191-44547-AA091
+Extended PID   : XXXXX-03308-019-144547-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : QMBVN-FJ3QW-G9V3W-PB2RX-CDKQV
+Key Status     : Valid
+Product ID     : 00326-10111-32989-AA777
+Extended PID   : XXXXX-03261-011-132989-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 9WTJM-NC2K7-VG48B-Y8R6G-WXD4K
+Key Status     : Valid
+Product ID     : 00417-51006-87794-AA713
+Extended PID   : XXXXX-04175-100-687794-00-1066-9200.0000-0092019
+SKU ID         : a6f69d68-5590-4e02-80b9-e7233dff204e
+Description    : Office19_VisioPro2019R_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74663
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4175 (104f)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : P38TN-KVMT9-63WVJ-WT8TD-M7V26
+Key Status     : Valid
+Product ID     : 00330-80191-79073-AA907
+Extended PID   : XXXXX-03308-019-179073-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NXTKR-MHC2C-W6KMJ-2D9CJ-4VV26
+Key Status     : Valid
+Product ID     : 00330-80191-44580-AA338
+Extended PID   : XXXXX-03308-019-144580-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : VWK2B-6H3CM-XYXVX-JVX2B-6PDRD
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9302993-32268
+Extended PID   : XXXXX-00186-029-932268-02-1066-9200.0000-0092019
+SKU ID         : da22eadd-46dc-4056-a287-f5041c852470
+Description    : Windows 7 Professional OEM:COA
+Edition ID     : Professional
+Sub Type       : X15-37341
+License Type   : OEM:COA
+Channel        : OEM
+Crypto ID      : 186 (ba)
+Block Key Base : Not found
+
+Benchmark      : 13,6 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : HDGBN-97QJ8-JJDX6-PPQ3G-P7J6C
+Key Status     : Valid
+Product ID     : 00342-50654-41758-AAOEM
+Extended PID   : XXXXX-03425-065-441758-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : N9J9Q-Q7MMP-XDDM6-63KKP-76FPM
+Key Status     : Valid
+Product ID     : 00400-00000-00001-AA321
+Extended PID   : XXXXX-04000-000-000001-03-1066-9200.0000-0092019
+SKU ID         : 0b4e6cfa-3072-434c-b702-bd1836e6887c
+Description    : Office19_ProPlus2019XC2RVL_MAKC2R
+Edition ID     : ProPlus2019Volume
+Sub Type       : X21-72969
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 4000 (fa0)
+Activ. Count   : 963509
+Block Key Base : Not found
+
+Benchmark      : 5,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+Key Status     : Valid
+Product ID     : 00339-10000-00000-AA828
+Extended PID   : XXXXX-03391-000-000000-03-1066-9200.0000-0092019
+SKU ID         : d450596f-894d-49e0-966a-fd39ed4c4c64
+Description    : Office16_ProPlusVL_KMS_Client
+Edition ID     : ProPlusVolume
+Sub Type       : X20-00543
+License Type   : Volume:GVLK
+Channel        : ltKMS
+Crypto ID      : 3391 (d3f)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : V4MGG-2NDT8-BBMM6-FV2F4-TVGXK
+Key Status     : Valid
+Product ID     : 00215-90021-69981-AA371
+Extended PID   : XXXXX-02159-002-169981-00-1066-9200.0000-0092019
+SKU ID         : 41499869-4103-4d3b-9da6-d07df41b6e39
+Description    : Office15_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32619
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2159 (86f)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : GN3XD-Q2MCR-DP9Q6-YMY6X-BKP6G
+Key Status     : Valid
+Product ID     : 00413-20001-70127-AA335
+Extended PID   : XXXXX-04132-000-170127-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 8,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : FXDHV-7NV3M-XFF87-49HMP-HH8JK
+Key Status     : Valid
+Product ID     : 00411-90500-90838-AA700
+Extended PID   : XXXXX-04119-050-090838-00-1066-9200.0000-0092019
+SKU ID         : 0d270ef7-5aaf-4370-a372-bc806b96adb7
+Description    : Office19_ProjectPro2019R_Retail
+Edition ID     : ProjectPro2019Retail
+Sub Type       : X21-74790
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4119 (1017)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : J7DND-68C3T-9QBD6-XKK2F-367T7
+Key Status     : Valid
+Product ID     : 00216-51520-39617-AA846
+Extended PID   : XXXXX-02165-152-039617-03-1066-9200.0000-0092019
+SKU ID         : 2b88c4f2-ea8f-43cd-805e-4d41346e18a7
+Description    : Office15_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X18-32641
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 2165 (875)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : YQGTJ-44NB6-KBYR3-388HG-KTQ4K
+Key Status     : Valid
+Product ID     : 00417-51007-52372-AA039
+Extended PID   : XXXXX-04175-100-752372-00-1066-9200.0000-0092019
+SKU ID         : a6f69d68-5590-4e02-80b9-e7233dff204e
+Description    : Office19_VisioPro2019R_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74663
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4175 (104f)
+Block Key Base : Not found
+
+Benchmark      : 7,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NV87D-6B8W2-W86K9-8RV34-844C6
+Key Status     : Valid
+Product ID     : 00330-80191-79318-AA414
+Extended PID   : XXXXX-03308-019-179318-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : P2DPT-44N4P-TK4PT-PF3VX-TF4C6
+Key Status     : Valid
+Product ID     : 00330-80192-08435-AA243
+Extended PID   : XXXXX-03308-019-208435-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : KVNQT-M68GG-WBGBG-XQXD7-X78J6
+Key Status     : Valid
+Product ID     : 00413-20000-15739-AA458
+Extended PID   : XXXXX-04132-000-015739-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : 3GWKF-P3N6H-2XM7R-6GRVJ-BWPFD
+Key Status     : Valid
+Product ID     : 00218-65001-68609-AA208
+Extended PID   : XXXXX-02186-500-168609-00-1066-9200.0000-0092019
+SKU ID         : a491efad-26ce-4ed7-b722-4569ba761d14
+Description    : Office15_VisioProMSDNR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X18-33261
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2186 (88a)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 6TCQ3-NBBJ2-RTJCM-HFRKV-G6PQV
+Key Status     : Valid
+Product ID     : 00338-97654-78658-AA848
+Extended PID   : XXXXX-03389-765-478658-00-1066-9200.0000-0092019
+SKU ID         : de52bd50-9564-4adc-8fcb-a345c17f84f9
+Description    : Office16_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-00537
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3389 (d3d)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 6DBND-D66D8-2QPKV-KXMRP-D69TT
+Key Status     : Valid
+Product ID     : 00330-80191-79066-AA229
+Extended PID   : XXXXX-03308-019-179066-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : PJDR4-GMN26-H7WFV-24XDB-WHWDP
+Key Status     : Valid
+Product ID     : 00351-35019-68491-AA273
+Extended PID   : XXXXX-03513-501-968491-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : X4CND-VTDRQ-7G3Q6-PHY7C-VFVPY
+Key Status     : Valid
+Product ID     : 00413-65874-44271-AA509
+Extended PID   : XXXXX-04136-587-444271-00-1066-9200.0000-0092019
+SKU ID         : a3072b8f-adcc-4e75-8d62-fdeb9bdfae57
+Description    : Office19_ProPlus2019R_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74626
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4136 (1028)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : V2P2P-4N2MT-H7XBY-QBQGY-WHXGG
+Key Status     : Valid
+Product ID     : 00413-20001-54931-AA776
+Extended PID   : XXXXX-04132-000-154931-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 7,9 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : W6H2N-HTBCF-R27CJ-VGXTT-XQBVM
+Key Status     : Valid
+Product ID     : 00339-25321-14677-AA365
+Extended PID   : XXXXX-03392-532-114677-03-1066-9200.0000-0092019
+SKU ID         : c47456e3-265d-47b6-8ca0-c30abbd0ca36
+Description    : Office16_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X20-00549
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 3392 (d40)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : N448R-CFTFD-TJFTM-9TF6B-39MP6
+Key Status     : Valid
+Product ID     : 00330-80120-78277-AA320
+Extended PID   : XXXXX-03308-012-078277-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 282TN-TW4D6-P82VX-TR87V-PWF9G
+Key Status     : Valid
+Product ID     : 00330-80121-21069-AA852
+Extended PID   : XXXXX-03308-012-121069-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : TFHWM-GCNFH-83M3V-G2QXV-RGDGP
+Key Status     : Valid
+Product ID     : 00330-50375-38560-AAOEM
+Extended PID   : XXXXX-03305-037-538560-02-1066-9200.0000-0092019
+SKU ID         : bd3762d7-270d-4760-8fb3-d829ca45278a
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X19-99481
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3305 (ce9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : KB7YN-GW9C4-QHC6R-WH3H3-8K8XG
+Key Status     : Valid
+Product ID     : 00330-80192-00763-AA834
+Extended PID   : XXXXX-03308-019-200763-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 9RCTW-YNXJ7-B7VPX-RJTBV-9BVHC
+Key Status     : Valid
+Product ID     : 00351-35022-85906-AA064
+Extended PID   : XXXXX-03513-502-285906-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : V96YN-64VTD-RPHV3-9Q38W-82QDV
+Key Status     : Valid
+Product ID     : 00326-10111-33639-AA564
+Extended PID   : XXXXX-03261-011-133639-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : VD883-JN3V9-PP8RW-YGF6Y-92D97
+Key Status     : Valid
+Product ID     : 00326-10111-31456-AA447
+Extended PID   : XXXXX-03261-011-131456-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JGNY7-CX9QK-Q98RY-KWD7V-4C2KG
+Key Status     : Valid
+Product ID     : 00330-80192-08424-AA736
+Extended PID   : XXXXX-03308-019-208424-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : PTB8B-NB94B-WYQFV-RBVXP-PGWQD
+Key Status     : Valid
+Product ID     : 00216-22082-89171-AA408
+Extended PID   : XXXXX-02162-208-289171-00-1066-9200.0000-0092019
+SKU ID         : 064383fa-1538-491c-859b-0ecab169a0ab
+Description    : Office15_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32622
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2162 (872)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : CN28M-HX2MD-YYG2K-CJRC9-P3726
+Key Status     : Valid
+Product ID     : 00330-80191-79322-AA357
+Extended PID   : XXXXX-03308-019-179322-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NFC9V-8RJXB-B88QK-V3QQG-J2QKQ
+Key Status     : Valid
+Product ID     : 00337-88731-70619-AA260
+Extended PID   : XXXXX-03378-873-170619-00-1066-9200.0000-0092019
+SKU ID         : 0f42f316-00b1-48c5-ada4-2f52b5720ad0
+Description    : Office16_ProjectProR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X19-99984
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3378 (d32)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : FNWBV-36Q67-QKCMM-F9QJP-FX8XC
+Key Status     : Valid
+Product ID     : 00330-50001-29879-AAOEM
+Extended PID   : XXXXX-03305-000-129879-02-1066-9200.0000-0092019
+SKU ID         : bd3762d7-270d-4760-8fb3-d829ca45278a
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X19-99481
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3305 (ce9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : PN9PK-9HJW4-TW44R-TKKT8-TQ726
+Key Status     : Valid
+Product ID     : 00330-80192-15680-AA672
+Extended PID   : XXXXX-03308-019-215680-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : RNXH8-HRBD2-2QF76-2K9D6-C9XTT
+Key Status     : Valid
+Product ID     : 00330-80192-00751-AA701
+Extended PID   : XXXXX-03308-019-200751-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : H23K4-T7NV8-BFKD2-9G2VJ-J8F9G
+Key Status     : Valid
+Product ID     : 00330-80187-70599-AA785
+Extended PID   : XXXXX-03308-018-770599-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : F8FNR-GY74T-7Q82X-G4V8M-MY49G
+Key Status     : Valid
+Product ID     : 00330-80191-44503-AA312
+Extended PID   : XXXXX-03308-019-144503-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : DCK27-TNT76-YWB3H-YC42K-RM48R
+Key Status     : Valid
+Product ID     : 00329-10285-71397-AA749
+Extended PID   : XXXXX-03291-028-571397-03-1066-9200.0000-0092019
+SKU ID         : 2ffd8952-423e-4903-b993-72a1aa44cf82
+Description    : Win 10 RTM Enterprise Volume:MAK
+Edition ID     : Enterprise
+Sub Type       : [TH]X19-98707
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3291 (cdb)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : N96B9-XVR8Y-FRWJ4-WRDY3-GF2C9
+Key Status     : Valid
+Product ID     : 00215-90016-00970-AA071
+Extended PID   : XXXXX-02159-001-600970-00-1066-9200.0000-0092019
+SKU ID         : 41499869-4103-4d3b-9da6-d07df41b6e39
+Description    : Office15_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32619
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2159 (86f)
+Block Key Base : Not found
+
+Benchmark      : 6 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 2GJKD-FCN9J-9GF64-Y99WB-92FJ2
+Key Status     : Valid
+Product ID     : 00342-50491-63881-AAOEM
+Extended PID   : XXXXX-03425-049-163881-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : KJRNX-W2TDV-M466F-7CXY7-WK83D
+Key Status     : Valid
+Product ID     : 00337-88730-30114-AA259
+Extended PID   : XXXXX-03378-873-030114-00-1066-9200.0000-0092019
+SKU ID         : 0f42f316-00b1-48c5-ada4-2f52b5720ad0
+Description    : Office16_ProjectProR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X19-99984
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3378 (d32)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JDN4Q-7Q9C3-GD9Y3-9DJ62-PGYP6
+Key Status     : Valid
+Product ID     : 00330-80191-62085-AA005
+Extended PID   : XXXXX-03308-019-162085-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 7GXVN-JCBPG-V626F-62D8G-8T28C
+Key Status     : Valid
+Product ID     : 00417-70000-46859-AA531
+Extended PID   : XXXXX-04177-000-046859-00-1066-9200.0000-0092019
+SKU ID         : 0758c976-ea87-4128-8c1c-f7af1bab76b9
+Description    : Office19_VisioPro2019MSDNR_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74660
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4177 (1051)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : FMHWN-D3K33-BQF67-RWT92-FX8XG
+Key Status     : Valid
+Product ID     : 00330-80191-44522-AA874
+Extended PID   : XXXXX-03308-019-144522-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : HCC7N-7J8WH-2HK7Y-4K6C8-29XTY
+Key Status     : Valid
+Product ID     : 00331-20306-11979-AA733
+Extended PID   : XXXXX-03312-030-611979-03-1066-9200.0000-0092019
+SKU ID         : 49cd895b-53b2-4dc4-a5f7-b18aa019ad37
+Description    : Win 10 RTM Professional Volume:MAK
+Edition ID     : Professional
+Sub Type       : [TH]X19-98804
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3312 (cf0)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JYMNK-XCG76-Q6Q3Y-G64X2-P9XTT
+Key Status     : Valid
+Product ID     : 00330-80191-44468-AA572
+Extended PID   : XXXXX-03308-019-144468-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : GPNG6-GXWKT-VKHT7-7VXG8-XW3FM
+Key Status     : Valid
+Product ID     : 00328-00001-37759-AA194
+Extended PID   : XXXXX-03280-000-137759-00-1066-9200.0000-0092019
+SKU ID         : e558417a-5123-4f6f-91e7-385c1c7ca9d4
+Description    : Win 10 RTM Education Retail
+Edition ID     : Education
+Sub Type       : [TH]X19-98886
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3280 (cd0)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 4MNRY-V88K2-Q2RRX-7V4RD-BG9TT
+Key Status     : Valid
+Product ID     : 00330-80121-35126-AA876
+Extended PID   : XXXXX-03308-012-135126-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : JHG9Y-VNV8T-8HT4T-GR729-T83GT
+Key Status     : Valid
+Product ID     : 00330-80191-79595-AA104
+Extended PID   : XXXXX-03308-019-179595-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : YN8W2-CM9CC-Q8YVR-DYWKG-H8RC6
+Key Status     : Valid
+Product ID     : 00330-80191-62192-AA976
+Extended PID   : XXXXX-03308-019-162192-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 2T7KM-3K29X-93T9J-M4CMV-B9YB2
+Key Status     : Valid
+Product ID     : XXXXX-067-2700273-86463
+Extended PID   : XXXXX-00172-067-270027-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : YNMGQ-8RYV3-4PGQ3-C8XTP-7CFBY
+Key Status     : Valid
+Product ID     : 00328-00000-00000-AA629
+Extended PID   : XXXXX-03280-000-000000-00-1066-9200.0000-0092019
+SKU ID         : e558417a-5123-4f6f-91e7-385c1c7ca9d4
+Description    : Win 10 RTM Education Retail
+Edition ID     : Education
+Sub Type       : [TH]X19-98886
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3280 (cd0)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : G4CMW-9BNMD-TBMHK-H89VR-844C6
+Key Status     : Valid
+Product ID     : 00330-80191-61974-AA916
+Extended PID   : XXXXX-03308-019-161974-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2010 / Office 2010 CSVLK 
+Key            : TPG3B-V4CPH-TFCP2-MYYPX-TPD8J
+Key Status     : Valid
+Product ID     : XXXXX-289-0828154-37173
+Extended PID   : XXXXX-00074-289-082815-00-1066-9200.0000-0092019
+SKU ID         : aa188b61-d3d3-443c-9dec-5b42393ee5cb
+Description    : RTM_ProjectPro_Retail2
+Edition ID     : ProjectProR
+Sub Type       : X16-07782
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 74 (4a)
+Block Key Base : Not found
+
+Benchmark      : 111,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 7TC6C-Y3W4X-4WCTJ-YYRYH-F6PVM
+Key Status     : Valid
+Product ID     : XXXXX-011-3631967-86254
+Extended PID   : XXXXX-00172-011-363196-03-1066-9200.0000-0092019
+SKU ID         : 9abf5984-9c16-46f2-ad1e-7fe15931a8dd
+Description    : Windows 7 All Volume Editions Volume:MAK
+Edition ID     : Enterprise;EnterpriseN;EnterpriseE;Professional;ProfessionalN;ProfessionalE
+Sub Type       : X15-39097
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 172 (ac)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 11,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : QP8VG-NCXX2-BKXV2-B62XX-KQBP6
+Key Status     : Valid
+Product ID     : 00330-80192-00728-AA244
+Extended PID   : XXXXX-03308-019-200728-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : 236TW-X778T-8MV9F-937GT-QVKBB
+Key Status     : Valid
+Product ID     : XXXXX-065-4981695-86688
+Extended PID   : XXXXX-00172-065-498169-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 6,9 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : Y8DWD-NHDBT-4H7PF-PDDPF-TVJXG
+Key Status     : Valid
+Product ID     : 00330-80191-79087-AA235
+Extended PID   : XXXXX-03308-019-179087-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : DXG7C-N36C4-C4HTG-X4T3X-2YV77
+Key Status     : Valid
+Product ID     : 00391-70000-00000-AA107
+Extended PID   : XXXXX-03917-000-000000-00-1066-9200.0000-0092019
+SKU ID         : eb6d346f-1c60-4643-b960-40ec31596c45
+Description    : Win 10 RTM ProfessionalWorkstation Retail
+Edition ID     : ProfessionalWorkstation
+Sub Type       : [RS3]X21-43626
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3917 (f4d)
+Block Key Base : Not found
+
+Benchmark      : 0,6 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : G76GT-YN8GP-T6W4Y-JRB3M-DPFJ2
+Key Status     : Valid
+Product ID     : 00342-50359-59998-AAOEM
+Extended PID   : XXXXX-03425-035-959998-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 8 / Server 2012  
+Key            : 679BK-VN7HT-6PK3M-29D4M-K73G7
+Key Status     : Valid
+Product ID     : 00178-10070-41250-AA881
+Extended PID   : XXXXX-01781-007-041250-00-1066-9200.0000-0092019
+SKU ID         : 9e473b6d-b591-4c46-9c44-90a865f22e76
+Description    : Win 8 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : X18-15499
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 1781 (6f5)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : XD8RH-NY27Q-C36K7-XBQ3W-VH7B7
+Key Status     : Valid
+Product ID     : 00341-31877-24443-AA756
+Extended PID   : XXXXX-03413-187-724443-00-1066-9200.0000-0092019
+SKU ID         : 2dfe2075-2d04-4e43-816a-eb60bbb77574
+Description    : Office16_VisioProR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X20-00738
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3413 (d55)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : 8YGXW-NFH4K-FJD64-6TCJG-BPXJV
+Key Status     : Valid
+Product ID     : 00214-14983-25562-AA571
+Extended PID   : XXXXX-02141-498-325562-00-1066-9200.0000-0092019
+SKU ID         : f2435de4-5fc0-4e5b-ac97-34f515ec5ee7
+Description    : Office15_ProjectProR_Retail
+Edition ID     : ProjectProRetail
+Sub Type       : X18-32772
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2141 (85d)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7BNTM-QQ947-W64VB-D3H4K-T83GT
+Key Status     : Valid
+Product ID     : 00330-80192-00846-AA851
+Extended PID   : XXXXX-03308-019-200846-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 10 RTM 
+Key            : MNTYX-2TFV6-TWMM8-HD323-PYWR2
+Key Status     : Valid
+Product ID     : 00424-90483-50162-AA977
+Extended PID   : XXXXX-04249-048-350162-03-1066-9200.0000-0092019
+SKU ID         : 97348f2f-bebc-4653-a4bd-18a895d316d9
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS5]X21-83258
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 4249 (1099)
+Activ. Count   : Key Blocked!
+Block Key Base : Key Blocked!
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : VHRCJ-PNJ3G-3F8KM-M9MBF-VMH7M
+Key Status     : Valid
+Product ID     : 00339-23800-87355-AA645
+Extended PID   : XXXXX-03392-380-087355-03-1066-9200.0000-0092019
+SKU ID         : c47456e3-265d-47b6-8ca0-c30abbd0ca36
+Description    : Office16_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X20-00551
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 3392 (d40)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 6,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 2G6CK-N7QQT-VFXWJ-WVX84-VMH82
+Key Status     : Valid
+Product ID     : 00342-50491-64376-AAOEM
+Extended PID   : XXXXX-03425-049-164376-02-1066-9200.0000-0092019
+SKU ID         : 2c293c26-a45a-4a2a-a350-c69a67097529
+Description    : Win 10 RTM Professional OEM:DM
+Edition ID     : Professional
+Sub Type       : [TH]X20-23601
+License Type   : OEM:DM
+Channel        : OEM
+Crypto ID      : 3425 (d61)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 3BP7N-Y28TF-9YMM8-4JY2B-7MKH9
+Key Status     : Valid
+Product ID     : 00417-51500-93409-AA307
+Extended PID   : XXXXX-04175-150-093409-00-1066-9200.0000-0092019
+SKU ID         : a6f69d68-5590-4e02-80b9-e7233dff204e
+Description    : Office19_VisioPro2019R_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74666
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4175 (104f)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 73GCN-FVDYG-GK7RJ-WD4CG-CGYP6
+Key Status     : Valid
+Product ID     : 00330-80191-79159-AA734
+Extended PID   : XXXXX-03308-019-179159-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : BYBPQ-NVXJQ-YD32T-8BKK8-F3KTT
+Key Status     : Valid
+Product ID     : 00330-80192-22078-AA506
+Extended PID   : XXXXX-03308-019-222078-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : HFVNG-KQFFM-QWRQV-69JKC-RVV26
+Key Status     : Valid
+Product ID     : 00330-80192-15611-AA852
+Extended PID   : XXXXX-03308-019-215611-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 6Q64R-FN9VH-TWXD2-4CJD4-4YBCK
+Key Status     : Valid
+Product ID     : 00412-76301-33527-AA072
+Extended PID   : XXXXX-04127-630-133527-00-1066-9200.0000-0092019
+SKU ID         : bb7ffe5f-daf9-4b79-b107-453e1c8427b5
+Description    : Office19_ProjectStd2019R_Retail
+Edition ID     : ProjectStd2019Retail
+Sub Type       : X21-74817
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4127 (101f)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 33CGM-2VN9M-GD9CT-8G4X2-YKM3P
+Key Status     : Valid
+Product ID     : 00351-35019-75318-AA777
+Extended PID   : XXXXX-03513-501-975318-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : CRN6V-BX2WV-8F4YH-WQBT8-78R8Q
+Key Status     : Valid
+Product ID     : 00380-20388-27737-AA445
+Extended PID   : XXXXX-03802-038-827737-03-1066-9200.0000-0092019
+SKU ID         : 2782d615-3249-495b-8260-15a4c2295448
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS1]X21-04911
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3802 (eda)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7KJ6N-PFWBY-GC9VQ-B726V-462JQ
+Key Status     : Valid
+Product ID     : 00380-20485-03916-AA063
+Extended PID   : XXXXX-03802-048-503916-03-1066-9200.0000-0092019
+SKU ID         : 2782d615-3249-495b-8260-15a4c2295448
+Description    : Win 10 RTM EnterpriseS Volume:MAK
+Edition ID     : EnterpriseS
+Sub Type       : [RS1]X21-04917
+License Type   : Volume:MAK
+Channel        : Volume
+Crypto ID      : 3802 (eda)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 0,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : XGWMN-6YPCH-CVR94-QF38P-4RJKQ
+Key Status     : Valid
+Product ID     : 00414-66840-18864-AA746
+Extended PID   : XXXXX-04146-684-018864-03-1066-9200.0000-0092019
+SKU ID         : 6755c7a7-4dfe-46f5-bce8-427be8e9dc62
+Description    : Office19_ProPlus2019VL_MAK_AE
+Edition ID     : ProPlus2019Volume
+Sub Type       : X21-74165
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 4146 (1032)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 8,4 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : QVNH4-BPY9B-B88WF-98FVM-8FG6T
+Key Status     : Valid
+Product ID     : 00330-80191-91975-AA161
+Extended PID   : XXXXX-03308-019-191975-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : FB9V4-98V76-2YWTR-7M2MP-86BYW
+Key Status     : Valid
+Product ID     : XXXXX-OEM-9648627-55780
+Extended PID   : XXXXX-00192-486-255780-02-1066-9200.0000-0092019
+SKU ID         : 25a0d760-2580-4c99-adfb-d57ba93560f5
+Description    : Windows 7 Home Basic OEM:COA
+Edition ID     : HomeBasic
+Sub Type       : X15-37348
+License Type   : OEM:COA
+Channel        : OEM
+Crypto ID      : 192 (c0)
+Block Key Base : Not found
+
+Benchmark      : 15,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 7NFVG-DGHYW-PBH83-JFYF3-MDWXG
+Key Status     : Valid
+Product ID     : 00330-80117-52254-AA337
+Extended PID   : XXXXX-03308-011-752254-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 3KNK9-8KHD7-MFQQF-WPF6J-2GYP6
+Key Status     : Valid
+Product ID     : 00330-80191-72674-AA702
+Extended PID   : XXXXX-03308-019-172674-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : Y74BN-VBRWJ-YFJ4D-6GDHV-X766T
+Key Status     : Valid
+Product ID     : 00330-80187-97667-AA107
+Extended PID   : XXXXX-03308-018-797667-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : YWYK4-GWNFW-XYQWP-4Q7V6-723Y9
+Key Status     : Valid
+Product ID     : 00411-91507-91630-AA011
+Extended PID   : XXXXX-04119-150-791630-00-1066-9200.0000-0092019
+SKU ID         : 0d270ef7-5aaf-4370-a372-bc806b96adb7
+Description    : Office19_ProjectPro2019R_Retail
+Edition ID     : ProjectPro2019Retail
+Sub Type       : X21-74792
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4119 (1017)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : NHQB6-GTDVM-B9Q6Q-4X8TF-KBQ73
+Key Status     : Valid
+Product ID     : 00218-60002-52920-AA420
+Extended PID   : XXXXX-02186-000-252920-00-1066-9200.0000-0092019
+SKU ID         : a491efad-26ce-4ed7-b722-4569ba761d14
+Description    : Office15_VisioProMSDNR_Retail
+Edition ID     : VisioProRetail
+Sub Type       : X18-33261
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2186 (88a)
+Block Key Base : Not found
+
+Benchmark      : 6,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 8KVBN-9D3P2-FPJFX-PBPVQ-3PFHM
+Key Status     : Valid
+Product ID     : 00339-23800-01497-AA191
+Extended PID   : XXXXX-03392-380-001497-03-1066-9200.0000-0092019
+SKU ID         : c47456e3-265d-47b6-8ca0-c30abbd0ca36
+Description    : Office16_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X20-00551
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 3392 (d40)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 6,5 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NYJ8P-MCBTF-TQ6KW-CPQXH-KHJ92
+Key Status     : Valid
+Product ID     : 00351-35018-85378-AA278
+Extended PID   : XXXXX-03513-501-885378-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : B6RWF-4QNV7-Y7W6G-TVBYJ-6MVHC
+Key Status     : Valid
+Product ID     : 00351-35016-29032-AA294
+Extended PID   : XXXXX-03513-501-629032-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : KQGNX-DRBBW-7PBW7-6784X-CDHT3
+Key Status     : Valid
+Product ID     : 00216-22077-97037-AA572
+Extended PID   : XXXXX-02162-207-797037-00-1066-9200.0000-0092019
+SKU ID         : 064383fa-1538-491c-859b-0ecab169a0ab
+Description    : Office15_ProPlusR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32622
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2162 (872)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 73M47-XNQ67-478CR-QVJHG-QYH4K
+Key Status     : Valid
+Product ID     : 00334-39002-08645-AA333
+Extended PID   : XXXXX-03343-900-208645-00-1066-9200.0000-0092019
+SKU ID         : c28acdb8-d8b3-4199-baa4-024d09e97c99
+Description    : Office16_HomeStudentR_Retail
+Edition ID     : HomeStudentRetail
+Sub Type       : X19-99144
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3343 (d0f)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : N8HMT-PRW3C-YWRCV-WTDYY-G3BP6
+Key Status     : Valid
+Product ID     : 00330-80200-74443-AA487
+Extended PID   : XXXXX-03308-020-074443-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : NJDBB-JMQPF-M64K4-K94HW-2GY3P
+Key Status     : Valid
+Product ID     : 00351-35020-07441-AA430
+Extended PID   : XXXXX-03513-502-007441-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 9JXT4-N99HG-3T8YY-K6377-YY49G
+Key Status     : Valid
+Product ID     : 00330-80191-79236-AA248
+Extended PID   : XXXXX-03308-019-179236-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : 6F36M-TN4WR-WM2VW-38XB2-76FXB
+Key Status     : Valid
+Product ID     : 00413-65876-00178-AA881
+Extended PID   : XXXXX-04136-587-600178-00-1066-9200.0000-0092019
+SKU ID         : a3072b8f-adcc-4e75-8d62-fdeb9bdfae57
+Description    : Office19_ProPlus2019R_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74626
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4136 (1028)
+Block Key Base : Not found
+
+Benchmark      : 0,8 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : Y2N48-XXCCK-P4PHK-MVRMR-GX2BX
+Key Status     : Valid
+Product ID     : 00417-51007-60777-AA633
+Extended PID   : XXXXX-04175-100-760777-00-1066-9200.0000-0092019
+SKU ID         : a6f69d68-5590-4e02-80b9-e7233dff204e
+Description    : Office19_VisioPro2019R_Retail
+Edition ID     : VisioPro2019Retail
+Sub Type       : X21-74663
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4175 (104f)
+Block Key Base : Not found
+
+Benchmark      : 0,2 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : BJHDW-P6N4H-KP8C2-QRVMK-7XMP6
+Key Status     : Valid
+Product ID     : 00330-80192-15804-AA408
+Extended PID   : XXXXX-03308-019-215804-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : DCFMN-F7GH3-KWRKH-W3836-683GT
+Key Status     : Valid
+Product ID     : 00330-80191-61971-AA697
+Extended PID   : XXXXX-03308-019-161971-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : D2YNY-C6PFF-K92RR-Q3JDP-FX8XG
+Key Status     : Valid
+Product ID     : 00330-80191-91894-AA433
+Extended PID   : XXXXX-03308-019-191894-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 8QNKT-BKP9P-GMQJK-Y8CJG-P7J92
+Key Status     : Valid
+Product ID     : 00351-35019-50173-AA670
+Extended PID   : XXXXX-03513-501-950173-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : DFWW7-BDN4V-98RMG-PBWX7-3J3VC
+Key Status     : Valid
+Product ID     : 00351-35019-75047-AA231
+Extended PID   : XXXXX-03513-501-975047-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : NT9GD-W9PF8-99RH8-2MP8V-R9CKG
+Key Status     : Valid
+Product ID     : 00330-80192-00982-AA747
+Extended PID   : XXXXX-03308-019-200982-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : 8DJJQ-8NR7B-7QY7D-VCGPF-TVJ92
+Key Status     : Valid
+Product ID     : 00351-35010-76075-AA744
+Extended PID   : XXXXX-03513-501-076075-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2019 RTM
+Key            : PHNGD-7JR6B-DDK3T-Y6JRX-CDM86
+Key Status     : Valid
+Product ID     : 00413-20001-96619-AA072
+Extended PID   : XXXXX-04132-000-196619-00-1066-9200.0000-0092019
+SKU ID         : 5f472f1e-eb0a-4170-98e2-fb9e7f6ff535
+Description    : Office19_ProPlus2019MSDNR_Retail
+Edition ID     : ProPlus2019Retail
+Sub Type       : X21-74618
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 4132 (1024)
+Block Key Base : Not found
+
+Benchmark      : 1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : WP66N-HP32M-F7RQ8-DB8DX-RM49G
+Key Status     : Valid
+Product ID     : 00330-80192-15558-AA879
+Extended PID   : XXXXX-03308-019-215558-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : XNCH8-DJ9YR-VYG9Q-22XRF-K4R7H
+Key Status     : Valid
+Product ID     : 00326-10111-30056-AA100
+Extended PID   : XXXXX-03261-011-130056-00-1066-9200.0000-0092019
+SKU ID         : 2b1f36bb-c1cd-4306-bf5c-a0367c2d97d8
+Description    : Win 10 RTM Core Retail
+Edition ID     : Core
+Sub Type       : [TH]X19-98871
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3261 (cbd)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : N82JV-PVBQP-FJJ4W-732JY-8FG6T
+Key Status     : Valid
+Product ID     : 00330-80191-62076-AA220
+Extended PID   : XXXXX-03308-019-162076-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Windows 7
+Key            : V77DJ-CT8WB-Y3GXT-X3FBP-6F987
+Key Status     : Valid
+Product ID     : XXXXX-068-3906424-86804
+Extended PID   : XXXXX-00172-068-390642-00-1066-9200.0000-0092019
+SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+Description    : Windows 7 Ultimate Retail
+Edition ID     : Ultimate
+Sub Type       : X15-39004
+License Type   : Retail
+Channel        : MSDN
+Crypto ID      : 172 (ac)
+Block Key Base : Not found
+
+Benchmark      : 7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : D3B9N-7BB48-9B348-76RBC-2DKTT
+Key Status     : Valid
+Product ID     : 00330-80120-78271-AA055
+Extended PID   : XXXXX-03308-012-078271-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : 2866R-9RNC2-28DJJ-4TJBJ-9TPKG
+Key Status     : Valid
+Product ID     : 00330-80123-29977-AA774
+Extended PID   : XXXXX-03308-012-329977-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98843
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : QDQNJ-94XWD-W6MGF-W3WK2-VFTK2
+Key Status     : Valid
+Product ID     : 00351-35020-98645-AA995
+Extended PID   : XXXXX-03513-502-098645-00-1066-9200.0000-0092019
+SKU ID         : 84832881-46ef-4124-8abc-eb493cdcf78e
+Description    : Office16_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X20-19681
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 3513 (db9)
+Block Key Base : Not found
+
+Benchmark      : 0,7 seconds
+
+    ==================================================================
+PKeyConfig     : System (Windows 10 Enterprise 2016 LTSB)
+Key            : TWBVN-DJXV7-H699M-6V7C7-B7V26
+Key Status     : Valid
+Product ID     : 00330-80191-92052-AA639
+Extended PID   : XXXXX-03308-019-192052-00-1066-9200.0000-0092019
+SKU ID         : 4de7cb65-cdf1-4de9-8ae8-e3cce27b9f2c
+Description    : Win 10 RTM Professional Retail
+Edition ID     : Professional
+Sub Type       : [TH]X19-98845
+License Type   : Retail
+Channel        : Retail
+Crypto ID      : 3308 (cec)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
+    ==================================================================
+PKeyConfig     : Office 2016 RTM
+Key            : PD4FN-BWR8C-24TJB-38MWK-6CQMB
+Key Status     : Valid
+Product ID     : 00339-23801-11683-AA226
+Extended PID   : XXXXX-03392-380-111683-03-1066-9200.0000-0092019
+SKU ID         : c47456e3-265d-47b6-8ca0-c30abbd0ca36
+Description    : Office16_ProPlusVL_MAK
+Edition ID     : ProPlusVolume
+Sub Type       : X20-00551
+License Type   : Volume:MAK
+Channel        : ltMAK
+Crypto ID      : 3392 (d40)
+Activ. Count   : 0
+Block Key Base : Not found
+
+Benchmark      : 1,2 seconds
+
+
+    ==================================================================
+PKeyConfig     : Office 2013
+Key            : KVNM8-FY72V-PRBGJ-RKV26-TJC9K
+Key Status     : Valid
+Product ID     : 00215-90015-95844-AA512
+Extended PID   : XXXXX-02159-001-595844-00-1066-9200.0000-0092019
+SKU ID         : 41499869-4103-4d3b-9da6-d07df41b6e39
+Description    : Office15_ProPlusMSDNR_Retail
+Edition ID     : ProPlusRetail
+Sub Type       : X18-32619
+License Type   : Retail
+Channel        : ltPERP
+Crypto ID      : 2159 (86f)
+Block Key Base : Not found
+
+Benchmark      : 0,1 seconds
+
