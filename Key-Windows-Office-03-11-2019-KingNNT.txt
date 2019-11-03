@@ -424,12 +424,6 @@ Sub type: X21-74792
 Error code: 0xC004C008
 Time: 11/3/2019 4:05:37 PM (GMT+7)
 
-Key: C78CN-DBMJ4-DXCJK-8XDPJ-82RWK
-Description: Office19_RTM19_ProjectPro2019R_Retail
-Sub type: X21-74792
-Error code: 0xC004C008
-Time: 11/3/2019 4:06:14 PM (GMT+7)
-
 Key: XNXWJ-PQ238-T72CR-GB8GG-RRHB7
 Description: Office16_VisioProR_Retail
 Sub type: X20-00738

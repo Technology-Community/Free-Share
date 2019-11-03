@@ -1,0 +1,19 @@
+┾ Key          : 73T74-XN8QR-G8H77-VPW2F-FC2X2
+┾ Description  : Office_2016_ProPlusMSDNR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/03 20:38:12
+
+┾ Key          : VVNP3-W4YVX-GG4PK-9GRBY-92FG3
+┾ Description  : Office_2016_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/03 20:39:54
+┾
+┾ Key          : J4V3T-HQNVC-W9FG7-HV4TR-Q9MT3
+┾ Description  : Office_2016_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/03 20:40:06
+
+┾ Key          : P73NM-29DYX-3332C-J4RJP-8XCRV
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/03 20:40:47
