@@ -1,0 +1,443 @@
+Key: HD7XN-V3PJB-QC9DP-87VM4-3DDD3
+Description: Windows Server 2019 RTM ServerStandard Retail
+Sub type: [RS5]X21-83401
+Error code: 0xC004C008
+Time: 11/3/2019 3:54:22 PM (GMT+7)
+
+Key: 4BKCN-CR82D-4RKM4-CF7TC-V8RG3
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/3/2019 3:55:20 PM (GMT+7)
+
+Key: 8CNC2-8MFD3-K86WY-7TX2T-HFTDD
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/3/2019 3:55:54 PM (GMT+7)
+
+Key: Q3K64-N4PJ3-MPX6R-WCGDX-MG9TY
+Description: Win 10 RTM Professional Volume:MAK
+Sub type: [TH]X19-98796
+Remaining: 0
+Time: 11/3/2019 3:55:57 PM (GMT+7)
+
+Key: FX8TW-NQ3RW-CW3C4-CB9R2-4RG4M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:56:31 PM (GMT+7)
+
+Key: C78CN-DBMJ4-DXCJK-8XDPJ-82RWK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 3:52:35 PM (GMT+7)
+
+Key: JHNPT-W8TRD-3W6V4-CFV74-WFG6T
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/3/2019 3:52:58 PM (GMT+7)
+
+Key: HFG3V-N2VKT-2QHHJ-3K4XW-33WXG
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/3/2019 3:53:17 PM (GMT+7)
+
+Key: 6C7GX-9N7RJ-BJVWV-B8DR2-FX8XG
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/3/2019 3:53:36 PM (GMT+7)
+
+Key: B8NRW-7XVH2-HDCJB-74MTT-XQBMY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:54:41 PM (GMT+7)
+
+Key: 2FR36-N98MC-JWFJT-3P7RF-K4R8B
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:55:03 PM (GMT+7)
+
+Key: 3JWB7-WNK8D-6KHPT-BH3HB-3GPJB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:55:34 PM (GMT+7)
+
+Key: 3TXTW-2NCD3-G3RJY-JJB72-27JWB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:55:52 PM (GMT+7)
+
+Key: 3VN7W-G86BP-3J8DG-D9WP4-2KCJB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:56:13 PM (GMT+7)
+
+Key: 449HM-NJT6M-Q46G9-KWB4D-BG9RM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:56:48 PM (GMT+7)
+
+Key: 6DDB3-NDB4B-4DB2J-GC32F-PPQFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:57:09 PM (GMT+7)
+
+Key: 7NXBJ-XQD98-HJKHR-V89Y3-VXMMY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:57:27 PM (GMT+7)
+
+Key: 9PJYN-CMR9D-C7DGV-6GMCQ-H22JB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:22 PM (GMT+7)
+
+Key: 9WQNJ-Y7J9R-TPFCW-9PD3R-X2FBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:57:44 PM (GMT+7)
+
+Key: BK7N8-6DQX8-8BDG3-DVVKH-GCQFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:20 PM (GMT+7)
+
+Key: BNKFP-HGX3T-VQJVH-CWGF3-C37YY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X20-21794
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:58 PM (GMT+7)
+
+Key: C793Y-D7NBP-DFMF2-V28QH-6XXRM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:59:54 PM (GMT+7)
+
+Key: C9W4N-7HJ7Q-6QYB4-WPPXC-HH64M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:31 PM (GMT+7)
+
+Key: D77P4-RN67F-W9QDB-6QWJH-RGDFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:26 PM (GMT+7)
+
+Key: DY2G6-7NXY6-V7H3K-6D46D-H22JB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:06 PM (GMT+7)
+
+Key: FPFWY-3N88Y-JFVGR-YR6TG-WXCJB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:03 PM (GMT+7)
+
+Key: QQNVC-W72CJ-7YTYG-WY9R2-BTDFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:59:17 PM (GMT+7)
+
+Key: QYN6R-P9JRR-VWCVR-J3GKC-MP2JB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:13 PM (GMT+7)
+
+Key: RBFNG-K7JBQ-Y6R2R-79GGP-7CFBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:09 PM (GMT+7)
+
+Key: RBNDR-FBFTF-RYWM7-QJT7X-7XMMY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:46 PM (GMT+7)
+
+Key: RTFGR-43NR8-QR9K7-R7Q8Q-9764M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:23 PM (GMT+7)
+
+Key: TN94P-T9W3H-PYGB6-J744W-JFG4M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:03 PM (GMT+7)
+
+Key: TR37N-QQ92J-HWT2K-3B9GX-4JRBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98888
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:40 PM (GMT+7)
+
+Key: FQQQV-NH6TC-7JWH2-4G3YT-XQBMY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:04 PM (GMT+7)
+
+Key: G7MN2-XQTKB-G6TMV-Q67X2-BTDFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:56 PM (GMT+7)
+
+Key: G839Q-7QN2Q-2QQCW-BTHHF-369RM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:11 PM (GMT+7)
+
+Key: G9CP9-C7N68-8B7KK-Y9B79-8QKRM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X20-21794
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:49 PM (GMT+7)
+
+Key: GHRNM-FB2H3-JWDKT-WYRDQ-RJRBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:28 PM (GMT+7)
+
+Key: HN37B-T8XFG-7YDCC-TXGM8-XW3FM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:24 PM (GMT+7)
+
+Key: HPG4D-JN8GK-WX37Q-HJKBR-6Q7YY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:21 PM (GMT+7)
+
+Key: HTMVX-8N364-VH7D4-CGGJ8-6MT4M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:59 PM (GMT+7)
+
+Key: J8GCY-Y8NB3-HRK3W-TJKR4-TVJWB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:04:21 PM (GMT+7)
+
+Key: JHMD4-TDN8Y-3B27T-PVYKT-FVVYY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:05:01 PM (GMT+7)
+
+Key: JQX7N-GR6DJ-TQMKB-26Q37-4C2JB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:58:40 PM (GMT+7)
+
+Key: K9GNV-B2GFY-7FHDP-FC8B4-MWRBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:59:36 PM (GMT+7)
+
+Key: K9N3J-2PR7B-V489W-9HTHY-VQWWB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:30 PM (GMT+7)
+
+Key: KKJCN-RRWV8-GVQ7J-D48M7-94R8B
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:08 PM (GMT+7)
+
+Key: M2NK7-JK3QW-3B43Q-CY6XK-JXCJB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:05 PM (GMT+7)
+
+Key: NTWCC-CMFJ7-V46DR-GHBQP-YKMMY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:44 PM (GMT+7)
+
+Key: NXHBK-QCMXV-QK2P6-DY9PD-C37YY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:22 PM (GMT+7)
+
+Key: NYCWC-P4JX8-QTVBP-8GRKX-Y7VYY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:04:02 PM (GMT+7)
+
+Key: NYP8X-7HDQR-GXPV6-99FTH-BDWWB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X20-21794
+Error code: 0xC004C008
+Time: 11/3/2019 4:04:42 PM (GMT+7)
+
+Key: PN3WX-Y7T6B-Q4MY4-H6XH8-29XRM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:05:37 PM (GMT+7)
+
+Key: VX8NK-8HPR2-G3WVG-H72X6-9KXRM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 3:59:51 PM (GMT+7)
+
+Key: VXN7Y-88X2F-HVM6R-FDG7X-XKXRM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:00:49 PM (GMT+7)
+
+Key: WBDGD-CTN8W-PB4J3-Q72YJ-CPQFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:01:47 PM (GMT+7)
+
+Key: XPY6N-DYRD9-8BKVQ-J7HJC-XTPJB
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:02:43 PM (GMT+7)
+
+Key: XTCNH-HF43B-TKMWC-PGMDF-MWRBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:03:41 PM (GMT+7)
+
+Key: Y6YQN-VJ9PJ-3B6JJ-GWJRD-4GDFM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:04:42 PM (GMT+7)
+
+Key: YMKBY-NMF44-K6CJ9-K62D6-RRG4M
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/3/2019 4:05:19 PM (GMT+7)
+
+Key: C93FB-9QND8-FH3G2-6728R-FCXKV
+Description: Office15_ProPlusVL_MAK
+Sub type: X18-32641
+Remaining: 0
+Time: 11/3/2019 4:07:25 PM (GMT+7)
+
+Key: C94FD-QNYRR-3W6DM-MYYFQ-9D43H
+Description: Office15_ProPlusVL_MAK
+Sub type: X18-32643
+Remaining: 0
+Time: 11/3/2019 4:07:26 PM (GMT+7)
+
+Key: 228J4-VGN3J-VFK4G-YMCVF-37B8K
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:06:51 PM (GMT+7)
+
+Key: WN2XG-PJJDP-G2H8Q-7D96F-KBWJK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:05:19 PM (GMT+7)
+
+Key: YCNFP-H9V3Y-B2VFD-VWT8D-Y4G7F
+Description: Office16_AccessR_Retail
+Sub type: X19-98940
+Error code: 0xC004C008
+Time: 11/3/2019 4:06:36 PM (GMT+7)
+
+Key: TDTQN-BMBKW-FDTD8-PWK4W-D9P4X
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:07:08 PM (GMT+7)
+
+Key: 4BKCN-CR82D-4RKM4-CF7TC-V8RG3
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/3/2019 4:07:43 PM (GMT+7)
+
+Key: 4DFY8-NP8HC-6G7R6-9Q7XX-V22RV
+Description: Office16_VisioProR_Retail
+Sub type: X20-00738
+Error code: 0xC004C008
+Time: 11/3/2019 4:08:08 PM (GMT+7)
+
+Key: RWKBD-2NMWH-GMVHV-2TJ9Q-9D9FX
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:08:32 PM (GMT+7)
+
+Key: 8CNC2-8MFD3-K86WY-7TX2T-HFTDD
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/3/2019 4:08:51 PM (GMT+7)
+
+Key: QKR2C-NG9R7-HCFWC-3FCV3-BHB8K
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:05:37 PM (GMT+7)
+
+Key: C78CN-DBMJ4-DXCJK-8XDPJ-82RWK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/3/2019 4:06:14 PM (GMT+7)
+
+Key: XNXWJ-PQ238-T72CR-GB8GG-RRHB7
+Description: Office16_VisioProR_Retail
+Sub type: X20-00738
+Error code: 0xC004C008
+Time: 11/3/2019 4:06:53 PM (GMT+7)
+
+Key: NMQ66-G9C87-D7J4D-CR6H9-JXCQD
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/3/2019 4:07:26 PM (GMT+7)
