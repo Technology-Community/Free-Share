@@ -6,5 +6,7 @@ Created by [KingNNT](https://www.facebook.com/Kinggg.NNT)
 
 ---
 I will share all the windows key, office, and other software, ...
-If you need more, you can join [Discord]([https://discord.gg/sXFnxCa](https://discord.gg/sXFnxCa)).
+
+If you need more, you can join [Discord](https://discord.gg/sXFnxCa).
+
 Thank you very much.
