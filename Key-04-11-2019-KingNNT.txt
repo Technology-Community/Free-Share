@@ -7,3 +7,6 @@
 ┾ Description  : Office_19ProjectPro2019R_Retail
 ┾ Error Code   : 0xC004C008
 ┾ Check Time   : 19/11/04 14:46:28
+
+-----------------------------------------------------
+Copyright © KingNNT
