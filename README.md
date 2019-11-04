@@ -11,8 +11,8 @@ If you need more, you can:
  - Join [Discord](https://discord.gg/sXFnxCa)
  - Inbox to [Facebook Page](https://www.facebook.com/Dev.KingNNT).
 
-** If you reposting, please specify the source **
+**If you reposting, please specify the source**
 
 Thank you very much.
 
-*** Copyright © KingNNT ***
+***Copyright © KingNNT***
