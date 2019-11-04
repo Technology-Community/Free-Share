@@ -1,0 +1,9 @@
+┾ Key          : BQMGY-FQNJG-XFVGP-QPYXY-XBT6T
+┾ Description  : Windows 10 Professional RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/04 14:42:30
+┾ 
+┾ Key          : TXDGN-QHCYW-7FWD6-RFVMK-3RVM9
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/04 14:46:28
