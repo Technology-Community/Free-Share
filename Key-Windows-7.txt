@@ -1,0 +1,68 @@
+ PKeyConfig     : Win 7 Ultimate
+ Key            : 32D62-Q32KD-PCFW3-84QY9-HF6J6
+ Key Status     : Valid
+ Product ID     : XXXXX-948-1761445-85275
+ Extended PID   : XXXXX-00170-948-176144-00-2052-9200.0000-3082019
+ SKU ID         : ac96e1a8-6cc4-4310-a4ff-332ce77fb5b8
+ Description    : Windows 7 Ultimate Retail
+ Edition ID     : Ultimate
+ Sub Type       : X15-39468
+ License Type   : Retail
+ Channel        : Retail
+ Crypto ID      : 170 (aa)
+ Comment        : 
+
+ Benchmark      : 00:00:27
+
+        ================================================
+ PKeyConfig     : Win 7 Ultimate
+ Key            : 2T7KM-3K29X-93T9J-M4CMV-B9YB2
+ Key Status     : Valid
+ Product ID     : XXXXX-067-2700273-86071
+ Extended PID   : XXXXX-00172-067-270027-00-2052-9200.0000-3082019
+ SKU ID         : a0cde89c-3304-4157-b61c-c8ad785d1fad
+ Description    : Windows 7 Ultimate Retail
+ Edition ID     : Ultimate
+ Sub Type       : X15-39004
+ License Type   : Retail
+ Channel        : MSDN
+ Crypto ID      : 172 (ac)
+ Comment        : 
+
+ Benchmark      : 00:00:19
+
+        ================================================
+ PKeyConfig     : Win 7 SP1
+ Key            : 2QV6K-8BW4X-GTM9V-GXGPR-XX8Y7
+ Key Status     : Valid
+ Product ID     : XXXXX-383-2020316-06497
+ Extended PID   : XXXXX-00212-383-202031-00-2052-9200.0000-3082019
+ SKU ID         : c619d61c-c2f2-40c3-ab3f-c5924314b0f3
+ Description    : Windows 7 SP1 Ultimate Retail
+ Edition ID     : Ultimate
+ Sub Type       : X16-95496
+ License Type   : Retail
+ Channel        : Retail
+ Crypto ID      : 212 (d4)
+ Comment        : 
+
+ Benchmark      : 00:01:21, time left: 00:00:27
+
+        ================================================
+ PKeyConfig     : Win 7 SP1
+ Key            : 2RXW4-7Q8MT-Y4Y3J-VPDKQ-8KF72
+ Key Status     : Valid
+ Product ID     : XXXXX-383-9573792-06845
+ Extended PID   : XXXXX-00212-383-957379-00-2052-9200.0000-3082019
+ SKU ID         : c619d61c-c2f2-40c3-ab3f-c5924314b0f3
+ Description    : Windows 7 SP1 Ultimate Retail
+ Edition ID     : Ultimate
+ Sub Type       : X16-95496
+ License Type   : Retail
+ Channel        : Retail
+ Crypto ID      : 212 (d4)
+ Comment        : 
+
+ Benchmark      : 00:00:39
+
+ Defined 4 Keys, not defined 0 Keys
