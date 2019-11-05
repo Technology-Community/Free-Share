@@ -17,6 +17,3 @@
 ┾ Description  : Office_2016_VisioProR_Retail
 ┾ Error Code   : 0xC004C008
 ┾ Check Time   : 19/11/03 20:40:47
-
------------------------------------------------------
-Copyright © KingNNT
