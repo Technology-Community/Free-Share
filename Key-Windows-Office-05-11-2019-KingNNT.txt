@@ -1,0 +1,23 @@
+Key: V36DN-Q24V9-69728-7TTJD-CBBJP
+Description: Win 10 RTM EnterpriseS Volume:MAK
+Sub type: [RS5]X21-83252
+Remaining: 193
+Time: 11/5/2019 2:50:58 PM (GMT+7)
+
+Key: 2NRHB-VKQJV-FRKC2-TC774-6Q9PC
+Description: Win 10 RTM EnterpriseS Volume:MAK
+Sub type: [RS5]X21-83255
+Remaining: 0
+Time: 11/5/2019 2:09:54 PM (GMT+7)
+
+Key: HD7XN-V3PJB-QC9DP-87VM4-3DDD3
+Description: Windows Server 2019 RTM ServerStandard Retail
+Sub type: [RS5]X21-83401
+Error code: 0xC004C008
+Time: 11/5/2019 7:57:23 AM (GMT+7)
+
+Key: TXDGN-QHCYW-7FWD6-RFVMK-3RVM9
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/5/2019 7:57:34 AM (GMT+7)
