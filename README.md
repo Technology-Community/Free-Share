@@ -15,4 +15,6 @@ If you need more, you can:
 
 Thank you very much.
 
+`` Upload time: 1:00 AM Daily ``
+
 ***Copyright © KingNNT***
