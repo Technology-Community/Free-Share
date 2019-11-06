@@ -1,0 +1,119 @@
+Win 8.1 RTM Professional Retail Online
+Key: TB9VN-9QWYG-JH7MM-YCDMY-2PM9B
+
+Key: GQ837-N283G-P8XD4-7HGYJ-K2FCF
+Description: Win 10 RTM Enterprise Volume:MAK
+Sub type: [TH]X19-98705
+Remaining: 61
+Time: 11/6/2019 6:26:32 PM (GMT+7)
+
+Key: NBFJ7-HV43T-QW276-8MK33-M7V2F
+Description: Win 10 RTM Enterprise Volume:MAK
+Sub type: [TH]X19-98707
+Remaining: 0
+Time: 11/6/2019 6:26:51 PM (GMT+7)
+
+Key: W7NXQ-KW986-63CHQ-CYPQH-94P9Q
+Description: Office15_ProPlusR_Retail
+Sub type: X18-32622
+Error code: 0xC004C008
+Time: 11/6/2019 6:24:37 PM (GMT+7)
+
+Key: HW3NW-JJHT2-PFRH3-W23JJ-D9P4X
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:29:24 PM (GMT+7)
+
+Key: 3XJGN-CHK3C-XR63X-37CJV-M4JJK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:29:49 PM (GMT+7)
+
+Key: N6GHB-DQ88P-DDF7R-VXJCG-6FY23
+Description: Office15_HomeBusinessR_Retail
+Sub type: X18-32419
+Error code: 0xC004C017
+Time: 11/6/2019 6:30:15 PM (GMT+7)
+
+Key: VW4GR-9NBDX-VWKFG-F7X6X-4JM23
+Description: Office15_HomeBusinessR_Retail
+Sub type: X18-32419
+Error code: 0xC004C017
+Time: 11/6/2019 6:30:42 PM (GMT+7)
+
+┾ Key          : NJY9V-QCH39-P8MTH-DVYGW-29XY7
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/06 18:35:15
+┾
+┾ Key          : 3FM4W-NDGRC-XCX3Q-J8MXW-D9MT3
+┾ Description  : Office_2016_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/06 18:35:33
+┾
+┾ Key          : NDMK9-YB7G6-9GB7B-89XPC-4RJMX
+┾ Description  : Office_19VisioPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/06 18:35:49
+┾
+┾ Key          : WRT6G-NDC6C-XCHKQ-PHW6V-VVB8K
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/06 18:36:01
+┾
+┾ Key          : X9NDC-D624J-WBGRD-YPYXB-88C9Q
+┾ Description  : Office_2013_ProPlusR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/06 18:36:13
+┾
+┾ ========           检测完成！           ========
+
+Key: 9JQNC-JT363-84D77-WPYXX-6CRWK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:28:52 PM (GMT+7)
+
+Key: MJWGG-NP4VF-QRHV4-744CC-YKP4X
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:29:08 PM (GMT+7)
+
+Key: NM8K9-VW62F-RWJ98-QDQWG-YHB8K
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:29:37 PM (GMT+7)
+
+Key: PK9JY-DXNK9-FCTQW-4HVXW-XW4WK
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:30:02 PM (GMT+7)
+
+Key: CDNVT-6VGHT-XYV33-GJ68Q-WQM8K
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:30:22 PM (GMT+7)
+
+Key: YQ767-Q2NJB-XC7D7-K3V6F-F624X
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:30:43 PM (GMT+7)
+
+Key: 892PN-J967M-FFHR7-92X48-4VXFX
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:31:07 PM (GMT+7)
+
+Key: NV4VR-DQ4XK-KMX29-VH2YV-KHMB9
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/6/2019 6:31:25 PM (GMT+7)
