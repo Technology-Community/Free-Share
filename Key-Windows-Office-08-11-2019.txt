@@ -1,0 +1,16 @@
+Windows 7 SP1 Ultimate Retail Phone 
+Key: MJ8FT-3M9BH-FJRG6-T7C27-6KCX2
+0xC004C008 - The activation server determined that the specified product key cannot be used
+=== !!! The product can be activated by phone !!! ===
+
+Key: V36DN-Q24V9-69728-7TTJD-CBBJP
+Description: Win 10 RTM EnterpriseS Volume:MAK
+Sub type: [RS5]X21-83252
+Remaining: 0
+Time: 11/7/2019 10:01:54 PM (GMT+7)
+
+Key: 9GGNY-RGB2W-RQ2HW-RGBMW-MTF42
+Description: Win 10 RTM EnterpriseS Volume:MAK
+Sub type: [RS5]X21-83253
+Remaining: 0
+Time: 11/7/2019 10:02:28 PM (GMT+7)
