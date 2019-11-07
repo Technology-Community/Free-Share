@@ -68,3 +68,13 @@ Time: 11/7/2019 10:02:28 PM (GMT+7)
  Comment        : 
 
  Benchmark      : 00:00:21
+
+ ┾ Key          : GN66B-6YQRW-47J4F-4JBVP-GQ9H9
+┾ Description  : Office_19VisioPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/08 03:41:24
+┾
+┾ Key          : N6DHR-DHTBJ-VD92Y-HM2D7-JQPBX
+┾ Description  : Office_19VisioPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/08 03:41:49
