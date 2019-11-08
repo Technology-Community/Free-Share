@@ -17,7 +17,7 @@
 
  Defined 1 Keys, not defined 0 Keys
 
- ┾ Key          : J79WN-K9267-494JP-VXKF9-66PKG
+┾ Key          : J79WN-K9267-494JP-VXKF9-66PKG
 ┾ Description  : Windows_10_Professional_RETAIL
 ┾ Error Code   : 0xC004C008
 ┾ Check Time   : 19/11/08 21:34:35
@@ -27,20 +27,10 @@
 ┾ Error Code   : 0xC004C008
 ┾ Check Time   : 19/11/08 21:34:57
 ┾
-┾ Key          : HNP8B-3MVPR-HVD3H-4VCVX-TF4C6
-┾ Description  : Windows_10_Professional_RETAIL
-┾ Error Code   : 0xC004C060
-┾ Check Time   : 19/11/08 21:35:19
-┾
 ┾ Key          : KYHQQ-NK8D7-D3XX3-WD32Y-KD726
 ┾ Description  : Windows_10_Professional_RETAIL
 ┾ Error Code   : 0xC004C008
 ┾ Check Time   : 19/11/08 21:35:39
-┾
-┾ Key          : MGVJC-JN4YK-7CTVP-G39MB-39MP6
-┾ Description  : Windows_10_Professional_RETAIL
-┾ Error Code   : 0xC004C060
-┾ Check Time   : 19/11/08 21:36:04
 ┾
 ┾ Key          : BGD3N-XVMV6-DK9YB-9JMKY-MY49G
 ┾ Description  : Windows_10_Professional_RETAIL
