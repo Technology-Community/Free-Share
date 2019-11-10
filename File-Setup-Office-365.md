@@ -7,4 +7,5 @@
 ---
 
 > Sau khi cài đặt xong sẽ tự kích hoạt bản quyền.
-    Thời hạn sử dụng: Không có ngày hết hạn
+
+Thời hạn sử dụng: Không có ngày hết hạn
