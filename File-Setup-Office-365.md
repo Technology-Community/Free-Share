@@ -1,8 +1,8 @@
 # File Setup Office 365
 | STT | Link Uploadfiles | Link Google Driver |
 |--|--|--|
-| 1 | http://megaurl.in/RSgzG | http://megaurl.in/4Momw5H |
-| 2 |http://megaurl.in/dVdKiUW | http://megaurl.in/mSLrWP |
+| 1 | [Download](http://megaurl.in/RSgzG) | [Download](http://megaurl.in/4Momw5H) |
+| 2 |[Download](http://megaurl.in/dVdKiUW) | [Download](http://megaurl.in/mSLrWP) |
 
 ---
 
