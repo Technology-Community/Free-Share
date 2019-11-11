@@ -1,8 +1,13 @@
+
 # Link download Windows - Office chính gốc
 ## Windows
-|Version| Edition | | | | |
+|Version| Edition | Fshare| Google Driver | One Driver | One Driver |
 |--|--|--|--|--|--|
-| Updating ... |  |  |  |  |  |
+| Windows 10 version 1903 build 18362.295 | Consumer (S/SL/Home/Pro/Edu)|[64 bit](http://megaurl.in/vVJeLA) | [64 bit](http://megaurl.in/r4YLYQHz) |  |  |
+|  |  | [32 bit](http://megaurl.in/dvXSqaWg) | [32 bit](https://drive.google.com/file/d/1UdtB0meU23DyZ0wLdaBLC1rzmEsW0JJw/view) |  |  |
+|  | Business (Pro/Enter/Edu) | [64 bit](http://megaurl.in/7QEiM) | [64 bit](http://megaurl.in/abYNBR) |  |  |
+|  |  | [32 bit](http://megaurl.in/8SdglJ) | [32 bit](http://megaurl.in/Natst3D) |  |  |
+| Updating ... |
 ---
 ## Office
 |Version| Edition | | | | |
