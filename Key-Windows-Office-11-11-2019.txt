@@ -1,17 +1,7 @@
-┾ Key          : 43FYN-J9J6W-HBD6Y-VPGHK-C7JXG
-┾ Description  : Windows_10_Professional_RETAIL
-┾ Error Code   : 0xC004C060
-┾ Check Time   : 19/11/11 18:18:01
-┾
 ┾ Key          : KQNT6-348CJ-KDDK4-6M3HH-M4G6Y
 ┾ Description  : Windows_10_Professional_MAK
 ┾ Error Code   : 0xC004C020
 ┾ Check Time   : 19/11/11 18:18:42
-┾
-┾ Key          : 7DMGJ-FNJXW-B7V8M-DG4GT-PDK7C
-┾ Description  : Office_2016_ProPlusMSDNR_Retail
-┾ Error Code   : 0xC004C060
-┾ Check Time   : 19/11/11 18:19:11
 ┾
 ┾ Key          : 8CPTW-NJYQH-3YC2H-QYVPG-9K2BX
 ┾ Description  : Office_19VisioPro2019R_Retail
