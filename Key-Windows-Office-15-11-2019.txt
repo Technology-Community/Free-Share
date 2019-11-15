@@ -1,0 +1,69 @@
+┾ Key          : HD7XN-V3PJB-QC9DP-87VM4-3DDD3
+┾ Description  : Windows_10_ServerStandard_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:04:55
+
+ PKeyConfig     : Office 2019 RTM19
+ Key            : G3VJ6-RNTWH-HJJVQ-TW36D-DV8KY
+ Key Status     : Valid
+ Product ID     : 00415-22493-83097-AA989
+ Extended PID   : XXXXX-04152-249-383097-03-2052-9200.0000-3192019
+ SKU ID         : beb5065c-1872-409e-94e2-403bcfb6a878
+ Description    : Office19_RTM19_Standard2019VL_MAK_AE
+ Edition ID     : Standard2019Volume
+ Sub Type       : X21-74200
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 4152 (1038)
+ Activ. Count   : 5
+ Comment        : 
+
+ Benchmark      : 00:00:03
+
+
+Windows 7 Professional OEM:COA
+7THQ4-TD87G-4X9DH-XJPG3-3Q87F
+MGHJV-GGBG2-DTXHW-RXPVM-CD24W
+VVGTY-4WJ24-GDWBW-KPYWH-HMYYF
+YMTG4-KX8VX-HX29G-8X87F-MF6BT
+
+Windows 8 Professional OEM:DM
+66WNG-M8QY8-7WYY8-WKB9B-F9BD2
+66YHM-WNQMB-D9XMV-VK8KT-FVTVP
+66YJJ-NR7HB-FC2XF-9B7TB-FGCBC
+
+ PKeyConfig     : Win 8 RTM
+ Key            : WD2CB-NGJBW-DFHQD-T6CMC-Q3R92
+ Key Status     : Valid
+ Product ID     : 00178-50352-24083-AA658
+ Extended PID   : XXXXX-01785-035-224083-03-2052-9200.0000-3192019
+ SKU ID         : 949d6b86-bfa7-4ff1-b4df-17e67bb6320d
+ Description    : Win 8 RTM Professional;ProfessionalN;Enterprise;EnterpriseN Volume:MAK
+ Edition ID     : Professional;ProfessionalN;Enterprise;EnterpriseN
+ Sub Type       : X18-15518
+ License Type   : Volume:MAK
+ Channel        : Volume
+ Crypto ID      : 1785 (6f9)
+ Activ. Count   : 1
+ Comment        : 
+
+ Benchmark      : 00:00:04
+
+  PKeyConfig     : Office 2016 StandardVL
+ Key            : KXHW9-XNJQK-4227M-3F8VH-R9CRP
+ Key Status     : Valid
+ Product ID     : 00340-93331-38559-AA698
+ Extended PID   : XXXXX-03409-333-138559-03-2052-9200.0000-3192019
+ SKU ID         : 0ed94aac-2234-4309-ba29-74bdbb887083
+ Description    : Office16_StandardVL_MAK
+ Edition ID     : StandardVolume
+ Sub Type       : X20-00726
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 3409 (d51)
+ Activ. Count   : 1
+ Comment        : 
+
+ Benchmark      : 00:00:04
+
+ 
