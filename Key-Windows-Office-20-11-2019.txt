@@ -1,0 +1,14 @@
+┾ Key          : NV4VR-DQ4XK-KMX29-VH2YV-KHMB9
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/19 22:39:09
+┾
+┾ Key          : 892PN-J967M-FFHR7-92X48-4VXFX
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/19 22:39:37
+
+┾ Key          : HGPN9-MRWC7-XCH8F-JMRF6-V6DGT
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/19 23:00:45
