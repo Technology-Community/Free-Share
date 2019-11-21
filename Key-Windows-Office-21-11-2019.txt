@@ -1,0 +1,24 @@
+◎   Key          : 9JQNC-JT363-84D77-WPYXX-6CRWK
+〓   Description  : Office 19ProjectPro2019R Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/21 15:08:05
+
+◎   Key          : 3XJGN-CHK3C-XR63X-37CJV-M4JJK
+〓   Description  : Office 19ProjectPro2019R Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/21 15:04:01
+
+◎   Key          : HW3NW-JJHT2-PFRH3-W23JJ-D9P4X
+〓   Description  : Office 19ProjectPro2019R Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/21 15:04:26
+
+◎   Key          : TXDGN-QHCYW-7FWD6-RFVMK-3RVM9
+〓   Description  : Office 19ProjectPro2019R Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/21 15:04:53
+
+┾ Key          : B8NRW-7XVH2-HDCJB-74MTT-XQBMY
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/21 19:34:16
