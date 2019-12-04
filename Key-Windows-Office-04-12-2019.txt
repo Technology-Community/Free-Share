@@ -1,0 +1,41 @@
+┾ Key          : 3VN7W-G86BP-3J8DG-D9WP4-2KCJB
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/04 21:15:08
+┾
+┾ Key          : 3TXTW-2NCD3-G3RJY-JJB72-27JWB
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004FC03
+┾ Check Time   : 19/12/04 21:16:23
+┾
+┾ Key          : 3JWB7-WNK8D-6KHPT-BH3HB-3GPJB
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/04 21:16:45
+┾
+┾ Key          : B8NRW-7XVH2-HDCJB-74MTT-XQBMY
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/04 21:17:08
+┾
+┾ Key          : FX8TW-NQ3RW-CW3C4-CB9R2-4RG4M
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004FC03
+┾ Check Time   : 19/12/04 21:18:21
+┾
+┾ ========           检测完成！           ========
+
+◎   Key          : 2RFQN-PK87Q-DM737-2CBB9-QV7B7
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/04 18:09:22
+
+◎   Key          : 9QNBF-C4WK2-64GCC-DKM6M-YWRJH
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/04 18:09:50
+
+◎   Key          : NJY9V-QCH39-P8MTH-DVYGW-29XY7
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/04 18:10:17
