@@ -1,0 +1,24 @@
+◎   Key          : T4NRH-369FR-GXWF8-HB88W-82QDV
+〓   Description  : Windows 10 Core RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/26 23:56:30
+
+◎   Key          : MDNPW-692KQ-D6HF4-GHTP4-CR397
+〓   Description  : Windows 10 Core RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/11/26 23:56:06
+
+┾ Key          : 9QNBF-C4WK2-64GCC-DKM6M-YWRJH
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/26 23:58:23
+┾
+┾ Key          : NJY9V-QCH39-P8MTH-DVYGW-29XY7
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/26 23:58:46
+┾
+┾ Key          : P73NM-29DYX-3332C-J4RJP-8XCRV
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/26 23:59:07

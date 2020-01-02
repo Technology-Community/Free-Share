@@ -15,6 +15,6 @@ If you need more, you can:
 
 Thank you very much.
 
-`` Upload time: 1:00 AM Daily ``
+`` Upload time: 1:00 AM (+07:00 GMT) Daily ``
 
 ***Copyright © KingNNT***

@@ -1,0 +1,54 @@
+◎   Key          : XBN7T-F2XKX-X7GMK-P393Q-WQKQV
+〓   Description  : Windows 10 Core RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/06 17:32:16
+
+◎   Key          : MDNPW-692KQ-D6HF4-GHTP4-CR397
+〓   Description  : Windows 10 Core RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/06 17:32:32
+
+◎   Key          : T4NRH-369FR-GXWF8-HB88W-82QDV
+〓   Description  : Windows 10 Core RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/06 17:32:48
+
+┾ Key          : QB273-N4GRT-B66GK-7Q8VG-9KXTT
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : Licensed
+┾ Check Time   : 19/12/06 17:35:33
+┾
+┾ Key          : DN2MT-67MQK-JQDG7-R22Q3-DV66T
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : Licensed
+┾ Check Time   : 19/12/06 17:36:42
+┾
+┾ Key          : XGBN8-FXY8P-8D32G-CX949-HCFC6
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/06 17:37:02
+┾
+┾ Key          : Y3YY8-NCFR4-7CYMP-PVJKD-FM49G
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/06 17:37:18
+┾
+┾ Key          : 69NMP-F7FCK-X8FRQ-GCG3W-BWRC6
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : Licensed
+┾ Check Time   : 19/12/06 17:38:22
+
+┾ Key          : MNMYV-M8MPG-97BM3-3XDV2-MPXMY
+┾ Description  : Office_2013_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/06 17:39:47
+┾
+┾ Key          : Y4MKD-VN4D3-9KHGW-FF7W3-7T7WB
+┾ Description  : Office_2013_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/12/06 17:40:05
+┾
+┾ Key          : WH2NV-8Y42B-B3MJW-43Q8V-R89MY
+┾ Description  : Office_2013_VisioProR_Retail
+┾ Error Code   : Licensed
+┾ Check Time   : 19/12/06 17:40:24
