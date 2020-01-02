@@ -1,0 +1,81 @@
+Key: TYNQJ-J9GH6-JGC4B-PDGKB-YWRBY
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:09 PM (GMT+7)
+
+Key: 4H7KY-N2HBP-BH4PF-CYT6P-7CFJH
+Description: Office16_VisioProR_Retail
+Sub type: X20-00739
+Error code: 0xC004C008
+Time: 11/12/2019 11:49:53 PM (GMT+7)
+
+Key: HG72N-B7QRQ-4JGJ4-6XGP3-BG9RM
+Description: Win 10 RTM Education Retail
+Sub type: [TH]X19-98885
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:14 PM (GMT+7)
+
+Key: 3PX2T-9HN8C-XC4WJ-4VVCC-P9XTT
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:32 PM (GMT+7)
+
+Key: 7C3H9-NT93B-RW3HB-C3CDR-X2FC6
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:48 PM (GMT+7)
+
+Key: JCMX7-NHFC3-TYW28-V4PKD-T6PQD
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/12/2019 11:49:40 PM (GMT+7)
+
+Key: HDN6W-VHG8W-D8TVP-RV374-WFG9Q
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/12/2019 11:49:58 PM (GMT+7)
+
+Key: 8NK2W-JGFM6-BJCHF-GXWFG-3V69Q
+Description: Office16_ProjectProR_Retail
+Sub type: X19-99817
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:24 PM (GMT+7)
+
+Key: 9QNBF-C4WK2-64GCC-DKM6M-YWRJH
+Description: Office16_VisioProR_Retail
+Sub type: X20-00743
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:39 PM (GMT+7)
+
+Key: VXTFF-HNPBW-H4JF8-C2TMJ-K2FJH
+Description: Office16_VisioProR_Retail
+Sub type: X20-00738
+Error code: 0xC004C008
+Time: 11/12/2019 11:50:54 PM (GMT+7)
+
+Key: 2RFQN-PK87Q-DM737-2CBB9-QV7B7
+Description: Office16_VisioProR_Retail
+Sub type: X20-00738
+Error code: 0xC004C008
+Time: 11/12/2019 11:51:09 PM (GMT+7)
+
+┾ Key          : YGTXY-6FN6T-FTYGM-MHCTH-FJTRX
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/12 23:54:46
+
+
+┾ Key          : QK8J7-BNBCH-B2KW4-V8W7B-3GPRV
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/12 23:56:13
+
+┾ Key          : H6873-NHXVG-FY263-KWMBX-BKMWH
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/12 23:56:49

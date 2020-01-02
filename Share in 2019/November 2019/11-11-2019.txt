@@ -1,0 +1,16 @@
+┾ Key          : KQNT6-348CJ-KDDK4-6M3HH-M4G6Y
+┾ Description  : Windows_10_Professional_MAK
+┾ Error Code   : 0xC004C020
+┾ Check Time   : 19/11/11 18:18:42
+┾
+┾ Key          : 8CPTW-NJYQH-3YC2H-QYVPG-9K2BX
+┾ Description  : Office_19VisioPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/11 18:19:30
+┾
+┾ Key          : YGTXY-6FN6T-FTYGM-MHCTH-FJTRX
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/11 18:19:50
+┾
+┾ ========           检测完成！           ========

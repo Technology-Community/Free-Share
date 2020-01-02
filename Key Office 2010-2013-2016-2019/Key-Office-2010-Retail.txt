@@ -1,0 +1,26 @@
+┾ Key          : 73XDR-9R2XK-J4M6V-TB777-7CWPR
+┾ Description  : Office_2010_ProPlus-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/05 15:06:55
+┾
+┾ Key          : 6PTQK-2C9X6-FJH83-48WJH-VVF9X
+┾ Description  : Office_2010_ProPlus-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/05 15:07:50
+┾
+┾ Key          : 73BP8-KQ9K2-KQ6RT-MK6GR-QPVW8
+┾ Description  : Office_2010_ProPlus-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/05 15:08:57
+┾
+┾ Key          : FKR97-739XX-6GBWR-64HDF-M3YPC
+┾ Description  : Office_2010_ProPlus-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/05 15:09:46
+┾
+┾ Key          : MJYWM-FP77Q-8CTVW-8YPXC-BYWDM
+┾ Description  : Office_2010_ProPlus-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/05 15:10:33
+┾
+┾ ========           检测完成！           ========

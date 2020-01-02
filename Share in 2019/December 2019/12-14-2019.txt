@@ -1,0 +1,39 @@
+◎   Key          : YTC9N-9P2WB-CBGCB-K29RV-MBH26
+〓   Description  : Windows 10 Professional RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:16:57
+
+◎   Key          : CMR8D-9NKC9-VMWKJ-8V3DV-DRR9G
+〓   Description  : Windows 10 Professional RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:15:27
+
+◎   Key          : QP8XJ-YBNWJ-2P7JY-GP9QX-WTYP6
+〓   Description  : Windows 10 Professional RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:13:59
+
+◎   Key          : 4VNTG-KPPG6-4YWXF-VFDDB-6VJXG
+〓   Description  : Windows 10 Professional RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:12:42
+
+◎   Key          : 8KHXR-N6DK8-F84RT-CY66R-6Q726
+〓   Description  : Windows 10 Professional RETAIL
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:11:22
+
+◎   Key          : 2RFQN-PK87Q-DM737-2CBB9-QV7B7
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:49:54
+
+◎   Key          : 9QNBF-C4WK2-64GCC-DKM6M-YWRJH
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:50:11
+
+◎   Key          : NJY9V-QCH39-P8MTH-DVYGW-29XY7
+〓   Description  : Office 2016 VisioProR Retail
+〓   Error Code   : 0xC004C008
+〓   Check Time   : 19/12/14 13:50:33

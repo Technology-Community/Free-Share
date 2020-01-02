@@ -1,0 +1,77 @@
+Key: TNXKR-28TF6-74BCB-RVJV2-7CFC6
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/10/2019 12:48:42 PM (GMT+7)
+
+Key: TR2NX-JKFFR-28BTT-W6X3W-VH66T
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/10/2019 12:48:52 PM (GMT+7)
+
+Key: Q27GN-PBJMP-F3Y3Q-MMX97-XD726
+Description: Win 10 RTM Professional Retail
+Sub type: [TH]X19-98843
+Error code: 0xC004C008
+Time: 11/10/2019 12:49:02 PM (GMT+7)
+
+Key: M86VR-D3NFF-PK938-Y7KV2-RVV3B
+Description: Win 10 RTM Professional Volume:MAK
+Sub type: [TH]X19-98804
+Remaining: 0
+Time: 11/10/2019 12:49:03 PM (GMT+7)
+
+Key: 6YNRC-28DV4-TVVXK-RYMD2-KW442
+Description: Win 10 RTM EnterpriseS Volume:MAK
+Sub type: [RS5]X21-83252
+Remaining: 0
+Time: 11/10/2019 12:49:04 PM (GMT+7)
+
+Key: 96CCV-NHKKV-2T4DB-MW6JW-YP2KM
+Description: Win 10 RTM Professional Volume:MAK
+Sub type: [TH]X19-98798
+Remaining: 0
+Time: 11/10/2019 12:49:05 PM (GMT+7)
+
+Key: 6V2NW-9HRK4-9967V-J2TCJ-BWRDB
+Description: Win 10 RTM Professional Volume:MAK
+Sub type: [TH]X19-98798
+Remaining: 0
+Time: 11/10/2019 12:49:06 PM (GMT+7)
+
+Key: THR73-BTNRT-8C82T-QTDDR-PPQGY
+Description: Win 10 RTM Professional Volume:MAK
+Sub type: [TH]X19-98805
+Remaining: 0
+Time: 11/10/2019 12:48:45 PM (GMT+7)
+
+Key: MY486-NBBHX-CKBF2-9DTG8-TQ44M
+Description: Office15_VisioProR_Retail
+Sub type: X18-33281
+Error code: 0xC004C008
+Time: 11/10/2019 12:49:00 PM (GMT+7)
+
+Key: 23NJK-8WB36-DXTFH-TCJVH-DRVRK
+Description: Office19_RTM19_VisioPro2019R_Retail
+Sub type: X21-74663
+Error code: 0xC004C008
+Time: 11/10/2019 12:49:12 PM (GMT+7)
+
+Key: PNW3Q-G4493-FRRD9-7FXRB-88C8V
+Description: Office15_ProjectProR_Retail
+Sub type: X18-32772
+Error code: 0xC004C008
+Time: 11/10/2019 12:49:23 PM (GMT+7)
+
+Key: WD2CB-NGJBW-DFHQD-T6CMC-Q3R92
+Description: Win 8 RTM Professional;ProfessionalN;Enterprise;EnterpriseN Volume:MAK
+Sub type: X18-15518
+Remaining: 38
+Time: 11/10/2019 12:49:23 PM (GMT+7)
+
+Key: GDN3H-D6RVT-F876R-HHBD4-4YBB9
+Description: Office19_RTM19_ProjectPro2019R_Retail
+Sub type: X21-74792
+Error code: 0xC004C008
+Time: 11/10/2019 12:49:36 PM (GMT+7)

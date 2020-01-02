@@ -1,0 +1,29 @@
+┾ Key          : PW7NP-JP6X2-VYD9V-CQPC3-T6PHH
+┾ Description  : Windows_10_Core_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:14:55
+┾
+┾ Key          : TV4QW-RNXY3-4PWQY-M8PBJ-GVJWB
+┾ Description  : Windows_10_Education_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:15:18
+
+┾ Key          : 228J4-VGN3J-VFK4G-YMCVF-37B8K
+┾ Description  : Office_19ProjectPro2019R_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:29:27
+
+┾ Key          : CM2J9-498KH-6YQ6C-8P678-PB4WV
+┾ Description  : Office_2010_ProPlusMSDN-Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:32:04
+
+┾ Key          : 4DB3N-63RJF-FP7GR-K9F92-P9VR7
+┾ Description  : Office_2013_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:33:01
+
+┾ Key          : HBNWD-36F9W-4W3YT-GPKVK-66KMY
+┾ Description  : Office_2013_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/15 23:34:58

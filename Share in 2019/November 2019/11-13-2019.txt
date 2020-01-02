@@ -1,0 +1,48 @@
+┾ Key          : 9QNBF-C4WK2-64GCC-DKM6M-YWRJH
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:20:58
+┾
+┾ Key          : VXTFF-HNPBW-H4JF8-C2TMJ-K2FJH
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:21:18
+┾
+┾ Key          : 2RFQN-PK87Q-DM737-2CBB9-QV7B7
+┾ Description  : Office_2016_VisioProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:21:44
+┾
+┾ Key          : HDN6W-VHG8W-D8TVP-RV374-WFG9Q
+┾ Description  : Office_2016_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:22:02
+┾
+┾ Key          : 8NK2W-JGFM6-BJCHF-GXWFG-3V69Q
+┾ Description  : Office_2016_ProjectProR_Retail
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:22:19
+┾
+┾ ========           检测完成！           ========
+
+ PKeyConfig     : Office 2010 RTM
+ Key            : RD676-XMDJF-T4FQK-B392Y-VYG9M
+ Key Status     : Valid
+ Product ID     : XXXXX-523-1627203-48071
+ Extended PID   : XXXXX-00096-523-162720-03-2052-9200.0000-3172019
+ SKU ID         : fdf3ecb9-b56f-43b2-a9b8-1b48b6bae1a7
+ Description    : RTM_ProPlus_MAK
+ Edition ID     : ProPlusVL
+ Sub Type       : X16-08112
+ License Type   : Volume:MAK
+ Channel        : ltMAK
+ Crypto ID      : 96 (60)
+ Activ. Count   : 4
+ Comment        : 
+
+ Benchmark      : 00:01:34
+
+┾ Key          : WHMXP-QNQRJ-KR7HW-3QVC7-KHJXG
+┾ Description  : Windows_10_Professional_RETAIL
+┾ Error Code   : 0xC004C008
+┾ Check Time   : 19/11/13 14:25:31
