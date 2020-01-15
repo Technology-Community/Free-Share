@@ -8,13 +8,14 @@
 I will share all the windows key, office, and other software, ...
 
 If you need more, you can:
- - Join [Discord](https://discord.gg/sXFnxCa)
- - Inbox to [Facebook Page](https://www.facebook.com/Dev.KingNNT).
+ - Join [Discord](https://discord.gg/sXFnxCa).
+ - Inbox to [Facebook Page](https://www.facebook.com/Dev.KingNNT/).
+ - Join [Facebook Group](https://www.facebook.com/groups/Developer.KingNNT/).
 
 **If you reposting, please specify the source**
 
 Thank you very much.
 
-`` Upload time: 1:00 AM (+07:00 GMT) Daily ``
+`` Upload time: 3:00 AM (+07:00 GMT) Daily ``
 
 ***Copyright © KingNNT***
