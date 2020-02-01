@@ -7,7 +7,7 @@ Hello my friends,
 
 I'm [KingNNT](https://www.facebook.com/Kinggg.NNT)
 
-Everything is Free with me.
+My slogan is "Everything is Free".
 
 If you need more, you can:
  - Join [Discord](https://discord.gg/sXFnxCa).
