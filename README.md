@@ -1,11 +1,13 @@
 
-# Share Key for Everybody
+# Free Share
 ![KingNNT Logo](https://i.imgur.com/tMlmOvw.png)
 
 ## Created by [KingNNT](https://www.facebook.com/Kinggg.NNT)
 
 ---
-I will share all the windows key, office, and other software, ...
+Hello my friends,
+I'm [KingNNT](https://www.facebook.com/Kinggg.NNT)
+Everything is Free with me.
 
 If you need more, you can:
  - Join [Discord](https://discord.gg/sXFnxCa).
@@ -16,6 +18,6 @@ If you need more, you can:
 
 Thank you very much.
 
-`` Upload time: 3:00 AM (+07:00 GMT) Daily ``
+`` Upload time: 00:00 AM - 3:00 AM (+07:00 GMT) Daily ``
 
 ***Copyright © KingNNT***
