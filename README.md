@@ -1,6 +1,6 @@
 
 # Free Share
-![KingNNT Logo](https://i.imgur.com/tMlmOvw.png)
+![KingNNT Logo](https://github.com/Technology-Community/Technology-Community.github.io/blob/master/assets/img/cover-picture.png)
 
 ---
 Hello my friends,
